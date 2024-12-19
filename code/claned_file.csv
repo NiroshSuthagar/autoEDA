@@ -1,0 +1,719 @@
+,show_id,type,title,director,country,date_added,release_year,rating,duration,listed_in
+4,s8,Movie,Sankofa,Haile Gerima,United States,9/24/2021,1993,TV-MA,125 min,"Dramas, Independent Movies, International Movies"
+29,s25,Movie,Jeans,S. Shankar,India,9/21/2021,1998,TV-14,166 min,"Comedies, International Movies, Romantic Movies"
+51,s27,Movie,Minsara Kanavu,Rajiv Menon,India,9/21/2021,1997,TV-PG,147 min,"Comedies, International Movies, Music & Musicals"
+53,s23,Movie,Avvai Shanmughi,K.S. Ravikumar,Not Given,9/21/2021,1996,TV-PG,161 min,"Comedies, International Movies"
+60,s42,Movie,Jaws,Steven Spielberg,United States,9/16/2021,1975,PG,124 min,"Action & Adventure, Classic Movies, Dramas"
+61,s43,Movie,Jaws 2,Jeannot Szwarc,United States,9/16/2021,1978,PG,116 min,"Dramas, Horror Movies, Thrillers"
+62,s44,Movie,Jaws 3,Joe Alves,United States,9/16/2021,1983,PG,98 min,"Action & Adventure, Horror Movies, Thrillers"
+63,s45,Movie,Jaws: The Revenge,Joseph Sargent,United States,9/16/2021,1987,PG-13,91 min,"Action & Adventure, Horror Movies, Thrillers"
+65,s49,Movie,Training Day,Antoine Fuqua,United States,9/16/2021,2001,R,122 min,"Dramas, Thrillers"
+67,s195,TV Show,Deadly Sins,Not Given,Pakistan,8/27/2021,2002,TV-MA,1 Season,"International TV Shows, Spanish-Language TV Shows, TV Dramas"
+68,s52,Movie,InuYasha the Movie 2: The Castle Beyond the Looking Glass,Toshiya Shinohara,Japan,9/15/2021,2002,TV-14,99 min,"Action & Adventure, Anime Features, International Movies"
+69,s53,Movie,InuYasha the Movie 3: Swords of an Honorable Ruler,Toshiya Shinohara,Japan,9/15/2021,2003,TV-14,99 min,"Action & Adventure, Anime Features, International Movies"
+71,s55,Movie,InuYasha the Movie: Affections Touching Across Time,Toshiya Shinohara,Japan,9/15/2021,2001,TV-PG,100 min,"Action & Adventure, Anime Features, International Movies"
+148,s115,Movie,Anjaam,Rahul Rawail,India,9/2/2021,1994,TV-14,143 min,"Dramas, International Movies, Thrillers"
+175,s123,Movie,In the Cut,Jane Campion,United Kingdom,9/2/2021,2003,R,118 min,Thrillers
+182,s132,Movie,Blade Runner: The Final Cut,Ridley Scott,United States,9/1/2021,1982,R,117 min,"Action & Adventure, Classic Movies, Cult Movies"
+196,s135,Movie,Clear and Present Danger,Phillip Noyce,United States,9/1/2021,1994,PG-13,142 min,"Action & Adventure, Dramas"
+197,s136,Movie,Cliffhanger,Renny Harlin,United States,9/1/2021,1993,R,113 min,Action & Adventure
+198,s137,Movie,Cold Mountain,Anthony Minghella,United States,9/1/2021,2003,R,154 min,"Dramas, Romantic Movies"
+199,s138,Movie,Crocodile Dundee in Los Angeles,Simon Wincer,Australia,9/1/2021,2001,PG,95 min,"Action & Adventure, Comedies"
+201,s140,Movie,Do the Right Thing,Spike Lee,United States,9/1/2021,1989,R,120 min,"Classic Movies, Comedies, Dramas"
+206,s145,Movie,House Party,Reginald Hudlin,United States,9/1/2021,1990,R,104 min,"Comedies, Cult Movies"
+207,s146,Movie,House Party 2,"George Jackson, Doug McHenry",United States,9/1/2021,1991,R,94 min,"Comedies, Cult Movies, Music & Musicals"
+208,s147,Movie,House Party 3,Eric Meza,United States,9/1/2021,1994,R,94 min,"Comedies, Music & Musicals"
+210,s150,Movie,I Got the Hook Up,Michael Martin,United States,9/1/2021,1998,R,93 min,"Action & Adventure, Comedies"
+211,s151,Movie,In Too Deep,Michael Rymer,United States,9/1/2021,1999,R,97 min,Thrillers
+216,s156,Movie,Labyrinth,Jim Henson,United Kingdom,9/1/2021,1986,PG,101 min,"Action & Adventure, Children & Family Movies, Cult Movies"
+219,s159,Movie,Love Don't Cost a Thing,Troy Byer,United States,9/1/2021,2003,PG-13,101 min,"Comedies, Romantic Movies"
+222,s162,Movie,Mars Attacks!,Tim Burton,United States,9/1/2021,1996,PG-13,106 min,"Comedies, Cult Movies, Sci-Fi & Fantasy"
+224,s164,Movie,My Boss's Daughter,David Zucker,United States,9/1/2021,2003,R,86 min,"Comedies, Romantic Movies"
+225,s165,Movie,Mystery Men,Kinka Usher,United States,9/1/2021,1999,PG-13,121 min,"Action & Adventure, Comedies"
+227,s167,Movie,Once Upon a Time in America,Sergio Leone,Italy,9/1/2021,1984,R,229 min,"Classic Movies, Dramas"
+229,s169,Movie,Osmosis Jones,"Bobby Farrelly, Peter Farrelly",United States,9/1/2021,2001,PG,95 min,"Action & Adventure, Children & Family Movies, Comedies"
+242,s171,Movie,Rhyme & Reason,Peter Spirer,United States,9/1/2021,1997,R,89 min,"Documentaries, Music & Musicals"
+244,s173,Movie,School of Rock,Richard Linklater,United States,9/1/2021,2003,PG-13,110 min,"Comedies, Music & Musicals"
+246,s175,Movie,Tears of the Sun,Antoine Fuqua,United States,9/1/2021,2003,R,121 min,"Action & Adventure, Dramas"
+247,s176,Movie,The Blue Lagoon,Randal Kleiser,United States,9/1/2021,1980,R,105 min,"Dramas, Romantic Movies"
+248,s177,Movie,The Golden Child,Michael Ritchie,United States,9/1/2021,1986,PG-13,94 min,"Action & Adventure, Comedies"
+249,s178,Movie,The Guns of Navarone,J. Lee Thompson,United Kingdom,9/1/2021,1961,TV-14,156 min,"Action & Adventure, Classic Movies"
+251,s180,Movie,The Nutty Professor,Tom Shadyac,United States,9/1/2021,1996,PG-13,95 min,"Comedies, Romantic Movies"
+252,s181,Movie,The Nutty Professor II: The Klumps,Peter Segal,United States,9/1/2021,2000,PG-13,107 min,"Comedies, Romantic Movies"
+254,s184,Movie,In the Line of Fire,Wolfgang Petersen,United States,8/31/2021,1993,R,129 min,"Action & Adventure, Classic Movies"
+275,s202,Movie,Kucch To Hai,"Anil V. Kumar, Anurag Basu",India,8/27/2021,2003,TV-14,136 min,"Dramas, International Movies, Thrillers"
+279,s206,Movie,Kyo Kii... Main Jhuth Nahin Bolta,David Dhawan,India,8/27/2021,2001,TV-14,150 min,"Comedies, International Movies, Sci-Fi & Fantasy"
+312,s3285,TV Show,Westside Story,Not Given,Pakistan,11/15/2019,2003,TV-14,1 Season,"International TV Shows, Romantic TV Shows, TV Action & Adventure"
+347,s254,Movie,Bombay,Mani Ratnam,India,8/18/2021,1995,TV-14,135 min,"Dramas, International Movies, Romantic Movies"
+354,s268,Movie,The Piano,Jane Campion,New Zealand,8/15/2021,1993,R,121 min,"Classic Movies, Dramas, Independent Movies"
+415,s304,Movie,Esperando la carroza,Alejandro Doria,Argentina,8/5/2021,1985,TV-MA,95 min,"Comedies, Cult Movies, International Movies"
+417,s306,Movie,Tango Feroz,Marcelo Piñeyro,Argentina,8/5/2021,1993,TV-MA,124 min,"Classic Movies, Dramas, International Movies"
+421,s4251,TV Show,Pioneers: First Women Filmmakers*,Not Given,Pakistan,12/30/2018,1925,TV-14,1 Season,TV Shows
+436,s315,Movie,Heavy,James Mangold,United States,8/3/2021,1995,R,104 min,"Dramas, Independent Movies, Romantic Movies"
+446,s326,Movie,Beethoven,Brian Levant,United States,8/1/2021,1992,PG,87 min,"Children & Family Movies, Comedies"
+465,s327,Movie,Beethoven's 2nd,Rod Daniel,United States,8/1/2021,1993,PG,88 min,"Children & Family Movies, Comedies"
+468,s330,Movie,Catch Me If You Can,Steven Spielberg,United States,8/1/2021,2002,PG-13,142 min,Dramas
+471,s333,Movie,Deep Blue Sea,Renny Harlin,United States,8/1/2021,1999,R,105 min,"Action & Adventure, Horror Movies, Sci-Fi & Fantasy"
+472,s334,Movie,Ferris Bueller's Day Off,John Hughes,United States,8/1/2021,1986,PG-13,103 min,"Classic Movies, Comedies, Cult Movies"
+479,s342,Movie,Magnolia,Paul Thomas Anderson,United States,8/1/2021,1999,R,189 min,"Dramas, Independent Movies"
+480,s343,Movie,Major Payne,Nick Castle,United States,8/1/2021,1995,PG-13,97 min,Comedies
+481,s344,Movie,My Girl,Howard Zieff,United States,8/1/2021,1991,PG-13,102 min,Dramas
+488,s345,Movie,My Girl 2,Howard Zieff,United States,8/1/2021,1994,PG,99 min,"Children & Family Movies, Comedies, Dramas"
+493,s350,Movie,Seabiscuit,Gary Ross,United States,8/1/2021,2003,PG-13,141 min,"Dramas, Sports Movies"
+494,s351,Movie,Space Cowboys,Clint Eastwood,United States,8/1/2021,2000,PG-13,130 min,"Action & Adventure, Dramas, Sci-Fi & Fantasy"
+498,s355,Movie,The Last Boy Scout,Tony Scott,United States,8/1/2021,1991,R,105 min,"Action & Adventure, Comedies"
+502,s359,Movie,The Net,Irwin Winkler,United States,8/1/2021,1995,PG-13,114 min,Thrillers
+503,s360,Movie,The Original Kings of Comedy,Spike Lee,United States,8/1/2021,2000,R,111 min,Stand-Up Comedy
+544,s6348,TV Show,Bob Ross: Beauty Is Everywhere,Not Given,Pakistan,6/1/2016,1991,TV-G,1 Season,TV Shows
+604,s444,Movie,La ley de Herodes,Luis Estrada,Mexico,7/16/2021,1999,R,123 min,"Comedies, International Movies"
+622,s455,Movie,Cheech & Chong's Still Smokin,Tommy Chong,Not Given,7/15/2021,1983,TV-MA,91 min,"Comedies, Cult Movies"
+630,s7456,TV Show,Mighty Morphin Alien Rangers,Not Given,Pakistan,1/1/2016,1996,TV-Y7,1 Season,Kids' TV
+697,s530,Movie,Return of the Prodigal Son,Youssef Chahine,Egypt,7/6/2021,1976,TV-MA,124 min,"Dramas, International Movies"
+701,s543,Movie,Ujala,Naresh Saigal,India,7/6/2021,1959,TV-14,143 min,"Dramas, International Movies"
+711,s560,Movie,Air Force One,Wolfgang Petersen,United States,7/1/2021,1997,R,125 min,Action & Adventure
+712,s562,Movie,Austin Powers in Goldmember,Jay Roach,United States,7/1/2021,2002,PG-13,94 min,"Action & Adventure, Comedies"
+713,s563,Movie,Austin Powers: International Man of Mystery,Jay Roach,United States,7/1/2021,1997,PG-13,90 min,Comedies
+714,s564,Movie,Austin Powers: The Spy Who Shagged Me,Jay Roach,United States,7/1/2021,1999,PG-13,95 min,"Action & Adventure, Comedies, Sci-Fi & Fantasy"
+715,s565,Movie,Boogie Nights,Paul Thomas Anderson,United States,7/1/2021,1997,R,155 min,"Comedies, Dramas, Independent Movies"
+717,s567,Movie,Charlie's Angels,McG,United States,7/1/2021,2000,PG-13,98 min,"Action & Adventure, Comedies"
+718,s568,Movie,Congo,Frank Marshall,United States,7/1/2021,1995,PG-13,108 min,"Action & Adventure, Thrillers"
+719,s569,Movie,Dennis the Menace,Nick Castle,United States,7/1/2021,1993,PG,96 min,"Children & Family Movies, Comedies"
+728,s580,Movie,Midnight Run,Martin Brest,United States,7/1/2021,1988,R,126 min,"Action & Adventure, Classic Movies, Comedies"
+729,s582,Movie,Mortal Kombat,Paul W.S. Anderson,United States,7/1/2021,1995,PG-13,101 min,"Action & Adventure, Sci-Fi & Fantasy"
+732,s585,Movie,Not Another Teen Movie,Joel Gallen,United States,7/1/2021,2001,R,89 min,Comedies
+735,s587,Movie,Pet Sematary 2,Mary Lambert,Not Given,7/1/2021,1992,R,101 min,Horror Movies
+741,s594,Movie,Snow Day,Chris Koch,United States,7/1/2021,2000,PG,89 min,"Children & Family Movies, Comedies"
+743,s596,Movie,Stuart Little,Rob Minkoff,Germany,7/1/2021,1999,PG,85 min,"Children & Family Movies, Comedies"
+748,s601,Movie,The Game,David Fincher,United States,7/1/2021,1997,R,129 min,Thrillers
+749,s602,Movie,The Karate Kid,John G. Avildsen,United States,7/1/2021,1984,PG,127 min,"Action & Adventure, Children & Family Movies, Classic Movies"
+750,s603,Movie,The Karate Kid Part II,John G. Avildsen,United States,7/1/2021,1986,PG,113 min,"Action & Adventure, Children & Family Movies, Dramas"
+751,s604,Movie,The Karate Kid Part III,John G. Avildsen,United States,7/1/2021,1989,PG,112 min,"Children & Family Movies, Dramas"
+752,s605,Movie,The Life of David Gale,Alan Parker,United Kingdom,7/1/2021,2003,R,130 min,Dramas
+753,s606,Movie,The Long Riders,Walter Hill,United States,7/1/2021,1980,R,100 min,Action & Adventure
+756,s609,Movie,The Sum of All Fears,Phil Alden Robinson,United States,7/1/2021,2002,PG-13,124 min,Action & Adventure
+758,s611,Movie,Underworld,Len Wiseman,United States,7/1/2021,2003,R,121 min,"Action & Adventure, Horror Movies, Sci-Fi & Fantasy"
+762,s615,Movie,What Dreams May Come,Vincent Ward,United States,7/1/2021,1998,PG-13,114 min,"Dramas, Romantic Movies, Sci-Fi & Fantasy"
+763,s616,Movie,Why Do Fools Fall in Love,Gregory Nava,United States,7/1/2021,1998,R,116 min,"Dramas, Music & Musicals, Romantic Movies"
+783,s652,Movie,Osuofia in London,Kingsley Ogoro,Nigeria,6/22/2021,2003,TV-MA,84 min,"Comedies, Dramas, International Movies"
+794,s673,Movie,Mobile Suit Gundam: Char's Counterattack,Yoshiyuki Tomino,Not Given,6/19/2021,1988,TV-14,120 min,"Action & Adventure, Anime Features, International Movies"
+795,s671,Movie,Mobile Suit Gundam II: Soldiers of Sorrow,"Yoshiyuki Tomino, Yoshikazu Yasuhiko",Not Given,6/19/2021,1981,TV-14,133 min,"Action & Adventure, Anime Features, International Movies"
+796,s672,Movie,Mobile Suit Gundam III: Encounters in Space,"Yoshiyuki Tomino, Yoshikazu Yasuhiko",Not Given,6/19/2021,1982,TV-MA,140 min,"Action & Adventure, Anime Features, International Movies"
+808,s690,Movie,Mobile Suit Gundam I,"Yoshiyuki Tomino, Yoshikazu Yasuhiko",Not Given,6/18/2021,1981,TV-14,139 min,"Action & Adventure, Anime Features, Classic Movies"
+818,s717,Movie,FTA,Francine Parker,United States,6/15/2021,1972,TV-MA,104 min,Documentaries
+857,s777,Movie,American Outlaws,Les Mayfield,United States,6/2/2021,2001,PG-13,94 min,Action & Adventure
+859,s780,Movie,Battlefield Earth,Roger Christian,United States,6/2/2021,2000,PG-13,118 min,"Action & Adventure, Cult Movies, Sci-Fi & Fantasy"
+860,s783,Movie,Bliss,Lance Young,Canada,6/2/2021,1997,R,103 min,"Dramas, Romantic Movies"
+864,s788,Movie,Cradle 2 the Grave,Andrzej Bartkowiak,United States,6/2/2021,2003,R,101 min,Action & Adventure
+865,s789,Movie,Domestic Disturbance,Harold Becker,United States,6/2/2021,2001,PG-13,89 min,Thrillers
+869,s794,Movie,Fools Rush In,Andy Tennant,United States,6/2/2021,1997,PG-13,109 min,"Comedies, Romantic Movies"
+872,s798,Movie,I Am Sam,Jessie Nelson,United States,6/2/2021,2001,PG-13,132 min,Dramas
+873,s799,Movie,Love Jones,Theodore Witcher,United States,6/2/2021,1997,R,109 min,"Comedies, Dramas, Independent Movies"
+883,s811,Movie,Streets of Fire,Walter Hill,United States,6/2/2021,1984,PG,94 min,"Action & Adventure, Classic Movies, Cult Movies"
+884,s813,Movie,Swordfish,Dominic Sena,United States,6/2/2021,2001,R,99 min,Action & Adventure
+886,s815,Movie,The Four Seasons,Alan Alda,United States,6/2/2021,1981,PG,108 min,"Comedies, Romantic Movies"
+891,s819,Movie,The Mirror Has Two Faces,Barbra Streisand,United States,6/2/2021,1996,PG-13,127 min,"Comedies, Dramas, Romantic Movies"
+892,s820,Movie,The Outlaw Josey Wales,Clint Eastwood,United States,6/2/2021,1976,PG,136 min,"Action & Adventure, Classic Movies"
+921,s868,Movie,The Last Days,James Moll,United States,5/19/2021,1998,PG-13,87 min,Documentaries
+950,s907,Movie,Have You Ever Seen Fireflies? - Theatre Play,Yılmaz Erdoğan,Turkey,5/7/2021,1999,TV-MA,118 min,"Dramas, International Movies"
+966,s929,Movie,Best of the Best,Robert Radler,United States,5/1/2021,1989,PG-13,97 min,"Action & Adventure, Sports Movies"
+973,s943,Movie,Mystic River,Clint Eastwood,United States,5/1/2021,2003,R,138 min,"Dramas, Thrillers"
+977,s947,Movie,Stargate,Roland Emmerich,United States,5/1/2021,1994,PG-13,121 min,"Action & Adventure, Sci-Fi & Fantasy"
+982,s952,Movie,The Sweetest Thing,Roger Kumble,United States,5/1/2021,2002,R,89 min,"Comedies, Romantic Movies"
+983,s953,Movie,The Whole Nine Yards,Jonathan Lynn,United States,5/1/2021,2000,R,99 min,"Action & Adventure, Comedies"
+986,s956,Movie,Under Siege,Andrew Davis,France,5/1/2021,1992,R,102 min,Action & Adventure
+1020,s996,Movie,Vizontele,"Yılmaz Erdoğan, Ömer Faruk Sorak",Turkey,4/23/2021,2001,TV-MA,106 min,"Comedies, Dramas, International Movies"
+1031,s1016,Movie,American Me,Edward James Olmos,United States,4/17/2021,1992,R,126 min,Dramas
+1035,s1020,Movie,Lagaan,Ashutosh Gowariker,India,4/17/2021,2001,PG,224 min,"Dramas, International Movies, Music & Musicals"
+1058,s1056,Movie,Zoot Suit,Luis Valdez,United States,4/15/2021,1981,R,103 min,"Cult Movies, Dramas, Music & Musicals"
+1103,s1122,Movie,Legally Blonde,Robert Luketic,United States,4/1/2021,2001,PG-13,96 min,"Comedies, Romantic Movies"
+1105,s1125,Movie,Maximum Risk,Ringo Lam,United States,4/1/2021,1996,R,101 min,Action & Adventure
+1106,s1127,Movie,My Fair Lady,George Cukor,United States,4/1/2021,1964,G,173 min,"Classic Movies, Music & Musicals"
+1116,s1139,Movie,The Pianist,Roman Polański,United Kingdom,4/1/2021,2002,R,149 min,"Dramas, Independent Movies, International Movies"
+1118,s1141,Movie,Universal Soldier: The Return,Mic Rodgers,United States,4/1/2021,1999,R,83 min,Action & Adventure
+1132,s1161,Movie,Croupier,Mike Hodges,Ireland,3/26/2021,1998,TV-MA,95 min,"Dramas, Independent Movies, Thrillers"
+1196,s1252,Movie,Dances with Wolves,Kevin Costner,United States,3/1/2021,1990,PG-13,181 min,"Action & Adventure, Classic Movies, Dramas"
+1199,s1255,Movie,Rain Man,Barry Levinson,United States,3/1/2021,1988,R,134 min,"Classic Movies, Dramas"
+1231,s1306,Movie,Awara Paagal Deewana,Vikram Bhatt,India,2/16/2021,2002,TV-14,162 min,"Action & Adventure, Comedies, Dramas"
+1263,s1354,Movie,Beverly Hills Ninja,Dennis Dugan,United States,2/1/2021,1997,PG-13,89 min,"Action & Adventure, Comedies"
+1312,s1427,Movie,Gangaajal,Prakash Jha,India,1/8/2021,2003,TV-MA,148 min,"Dramas, International Movies"
+1320,s1442,Movie,Hello Brother,Sohail Khan,India,1/4/2021,1999,TV-14,126 min,"Action & Adventure, Comedies, International Movies"
+1325,s1451,Movie,Eddie Murphy: Raw,Robert Townsend,United States,1/1/2021,1987,R,90 min,Stand-Up Comedy
+1328,s1454,Movie,Good Burger,Brian Robbins,United States,1/1/2021,1997,PG,96 min,"Children & Family Movies, Comedies"
+1333,s1462,Movie,Mystic Pizza,Donald Petrie,United States,1/1/2021,1988,R,104 min,"Comedies, Dramas, Independent Movies"
+1338,s1470,Movie,What's Eating Gilbert Grape,Lasse Hallström,United States,1/1/2021,1993,PG-13,118 min,"Classic Movies, Dramas, Independent Movies"
+1435,s1622,Movie,Quigley Down Under,Simon Wincer,Australia,12/1/2020,1990,PG-13,120 min,Action & Adventure
+1489,s1700,Movie,White Christmas,Michael Curtiz,United States,11/15/2020,1954,TV-G,120 min,"Children & Family Movies, Classic Movies, Comedies"
+1524,s1762,Movie,Little Monsters,Richard Greenberg,United States,11/1/2020,1989,PG,102 min,"Children & Family Movies, Comedies"
+1529,s1769,Movie,The Next Karate Kid,Christopher Cain,United States,11/1/2020,1994,PG,107 min,"Action & Adventure, Dramas, Sports Movies"
+1566,s1818,Movie,Beirut Oh Beirut,Maroun Baghdadi,Lebanon,10/19/2020,1975,TV-14,106 min,"Classic Movies, Dramas, International Movies"
+1571,s1823,Movie,Out of Life,Maroun Baghdadi,France,10/19/2020,1991,TV-MA,94 min,"Classic Movies, Dramas, Independent Movies"
+1574,s1826,Movie,The Kite,Randa Chahal Sabbag,Lebanon,10/19/2020,2003,TV-MA,76 min,"Dramas, International Movies, Romantic Movies"
+1575,s1827,Movie,The Little Wars,Maroun Baghdadi,France,10/19/2020,1982,TV-14,108 min,"Dramas, Independent Movies, International Movies"
+1577,s1830,Movie,West Beirut,Ziad Doueiri,France,10/19/2020,1999,TV-MA,106 min,"Dramas, International Movies"
+1579,s1832,Movie,Whispers,Maroun Baghdadi,Lebanon,10/19/2020,1980,TV-14,93 min,"Documentaries, International Movies"
+1599,s1862,Movie,Dil,Indra Kumar,India,10/12/2020,1990,TV-14,165 min,"Comedies, Dramas, International Movies"
+1600,s1863,Movie,Disco Dancer,B. Subhash,India,10/12/2020,1982,TV-14,134 min,"Cult Movies, Dramas, International Movies"
+1603,s1867,Movie,The Legend of Bhagat Singh,Rajkumar Santoshi,India,10/12/2020,2002,TV-14,156 min,"Dramas, International Movies"
+1647,s1938,Movie,Amandla! A Revolution in Four Part Harmony,Lee Hirsch,South Africa,9/28/2020,2002,PG-13,103 min,"Documentaries, International Movies, Music & Musicals"
+1651,s1942,Movie,Ishq Vishk,Ken Ghosh,India,9/28/2020,2003,TV-PG,129 min,"Comedies, International Movies, Music & Musicals"
+1654,s1945,Movie,Mann,Indra Kumar,India,9/28/2020,1999,TV-14,173 min,"Dramas, International Movies, Romantic Movies"
+1692,s2002,Movie,Raising Victor Vargas,Peter Sollett,France,9/15/2020,2002,R,88 min,"Dramas, Independent Movies, Romantic Movies"
+1741,s2075,Movie,Soldier,Abbas Mustan,India,9/1/2020,1998,TV-14,155 min,"Comedies, Dramas, International Movies"
+1752,s2091,Movie,Edge of Seventeen,David Moreton,United States,8/27/2020,1998,TV-MA,103 min,"Comedies, Dramas, Independent Movies"
+1895,s2312,Movie,Double Jeopardy,Bruce Beresford,United States,7/1/2020,1999,R,105 min,Thrillers
+1900,s2318,Movie,Total Recall,Paul Verhoeven,United States,7/1/2020,1990,R,114 min,"Action & Adventure, Sci-Fi & Fantasy"
+1924,s2355,Movie,Destiny,Youssef Chahine,Egypt,6/19/2020,1997,TV-14,136 min,"Dramas, International Movies"
+1929,s2362,Movie,The Emigrant,Youssef Chahine,Egypt,6/19/2020,1994,TV-14,130 min,"Dramas, International Movies"
+1932,s2366,Movie,Alexandria ... Why?,Youssef Chahine,Egypt,6/18/2020,1979,TV-MA,131 min,"Classic Movies, Dramas, International Movies"
+1933,s2367,Movie,Alexandria: Again and Forever,Youssef Chahine,Egypt,6/18/2020,1989,TV-MA,109 min,"Classic Movies, Dramas, International Movies"
+1934,s2368,Movie,An Egyptian Story,Youssef Chahine,Egypt,6/18/2020,1982,TV-MA,129 min,"Classic Movies, Dramas, Independent Movies"
+1935,s2369,Movie,Cairo Station,Youssef Chahine,Egypt,6/18/2020,1958,TV-14,73 min,"Classic Movies, Dramas, International Movies"
+1936,s2370,Movie,Dark Waters,Youssef Chahine,Egypt,6/18/2020,1956,TV-14,104 min,"Classic Movies, Dramas, International Movies"
+1939,s2374,Movie,Saladin,Youssef Chahine,Egypt,6/18/2020,1963,TV-MA,194 min,"Action & Adventure, Classic Movies, Dramas"
+1941,s2376,Movie,The Blazing Sun,Youssef Chahine,Egypt,6/18/2020,1954,TV-14,116 min,"Classic Movies, Dramas, International Movies"
+1942,s2377,Movie,The Land,Youssef Chahine,Egypt,6/18/2020,1970,TV-MA,130 min,"Classic Movies, Dramas, International Movies"
+1997,s2461,Movie,The Other,Youssef Chahine,Egypt,5/29/2020,1999,TV-MA,106 min,"Dramas, International Movies, Romantic Movies"
+2006,s2484,Movie,Fifty Year Old Teenager,Fouad Al Shatti,Not Given,5/21/2020,1996,TV-14,204 min,"Comedies, International Movies"
+2009,s2485,Movie,Lock Your Girls In,Fouad El-Mohandes,Not Given,5/21/2020,1982,TV-PG,233 min,"Comedies, International Movies, Romantic Movies"
+2015,s2483,Movie,Bye Bye London,Almunsif Alsuwaisi,Kuwait,5/21/2020,1981,TV-14,177 min,"Comedies, Dramas, International Movies"
+2017,s2489,Movie,Raya and Sakina,Hussein Kamal,Not Given,5/21/2020,1984,TV-14,230 min,"Comedies, Dramas, International Movies"
+2018,s2488,Movie,No Longer kids,Samir Al Asfory,Egypt,5/21/2020,1979,TV-14,237 min,"Comedies, Dramas, International Movies"
+2019,s2491,Movie,The Married Couples,Hassan AbdulSalam,Egypt,5/21/2020,1981,TV-14,195 min,"Comedies, International Movies, Romantic Movies"
+2020,s2492,Movie,The School of Mischief,Houssam El-Din Mustafa,Egypt,5/21/2020,1973,TV-14,253 min,"Comedies, Dramas, International Movies"
+2022,s2490,Movie,Sayed the Servant,Hussein Kamal,Not Given,5/21/2020,1985,TV-14,173 min,"Comedies, International Movies"
+2023,s2493,Movie,The Witness Who Didn't See Anything,"Muhammad Fadl, Hany Motawie",Egypt,5/21/2020,1976,TV-PG,157 min,"Comedies, International Movies"
+2061,s2546,Movie,Andaz Apna Apna,Rajkumar Santoshi,India,5/11/2020,1994,TV-14,160 min,"Action & Adventure, Comedies, Cult Movies"
+2093,s2597,Movie,What a Girl Wants,Dennie Gordon,United States,5/1/2020,2003,PG,105 min,"Children & Family Movies, Comedies"
+2178,s2716,Movie,Agneepath,Mukul Anand,India,4/1/2020,1990,TV-14,174 min,"Dramas, International Movies"
+2183,s2722,Movie,Duniya,Ramesh Talwar,India,4/1/2020,1984,TV-14,170 min,"Action & Adventure, Dramas, International Movies"
+2184,s2723,Movie,Duplicate,Mahesh Bhatt,India,4/1/2020,1998,TV-14,165 min,"Comedies, Dramas, International Movies"
+2185,s2724,Movie,Friendship,Raj Khosla,India,4/1/2020,1980,TV-14,161 min,"Action & Adventure, Dramas, International Movies"
+2187,s2726,Movie,Gumrah,Mahesh Bhatt,India,4/1/2020,1993,TV-14,149 min,"Action & Adventure, Dramas, International Movies"
+2192,s2732,Movie,Kabhi Khushi Kabhie Gham,Karan Johar,India,4/1/2020,2001,TV-14,209 min,"Dramas, International Movies"
+2193,s2733,Movie,Kal Ho Naa Ho,Nikkhil Advani,India,4/1/2020,2003,TV-14,187 min,"Comedies, Dramas, International Movies"
+2195,s2735,Movie,Kuch Kuch Hota Hai,Karan Johar,India,4/1/2020,1998,TV-14,185 min,"Comedies, Dramas, International Movies"
+2198,s2739,Movie,Muqaddar ka Faisla,Prakash Mehra,India,4/1/2020,1987,TV-14,172 min,"Action & Adventure, Comedies, Dramas"
+2344,s2958,Movie,Hum Aapke Hain Koun,Sooraj R. Barjatya,India,2/1/2020,1994,TV-14,193 min,"Classic Movies, Dramas, International Movies"
+2350,s2970,Movie,Together For Eternity,Sooraj R. Barjatya,India,2/1/2020,1999,TV-G,176 min,"Dramas, International Movies, Music & Musicals"
+2401,s3063,Movie,Jimmy Neutron: Boy Genius,John A. Davis,United States,1/1/2020,2001,G,83 min,"Children & Family Movies, Comedies, Sci-Fi & Fantasy"
+2442,s3132,Movie,Dil Chahta Hai,Farhan Akhtar,India,12/15/2019,2001,TV-14,185 min,"Comedies, Dramas, International Movies"
+2644,s3473,Movie,Rugrats in Paris: The Movie,"Stig Bergqvist, Paul Demeyer",Germany,10/1/2019,2000,G,79 min,"Children & Family Movies, Comedies"
+2646,s3476,Movie,The Rugrats Movie,"Igor Kovalyov, Norton Virgien",United States,10/1/2019,1998,G,81 min,"Children & Family Movies, Comedies"
+2788,s3721,Movie,EVANGELION: DEATH (TRUE)²,Hideaki Anno,Japan,6/21/2019,1998,TV-MA,69 min,"Action & Adventure, Anime Features, International Movies"
+2789,s3729,Movie,The End of Evangelion,"Hideaki Anno, Kazuya Tsurumaki",Japan,6/21/2019,1997,TV-MA,87 min,"Action & Adventure, Anime Features, International Movies"
+2891,s3911,Movie,Bollywood Calling,Nagesh Kukunoor,India,4/15/2019,2001,TV-MA,102 min,"Comedies, Dramas, International Movies"
+2894,s3914,Movie,Hazaaron Khwaishein Aisi,Sudhir Mishra,India,4/15/2019,2003,TV-MA,111 min,"Dramas, International Movies, Romantic Movies"
+2895,s3915,Movie,Jhankaar Beats,Sujoy Ghosh,India,4/15/2019,2003,TV-14,131 min,"Comedies, International Movies, Music & Musicals"
+2896,s3916,Movie,Mumbai Matinee,Anant Balani,India,4/15/2019,2003,TV-14,116 min,"Comedies, International Movies, Romantic Movies"
+3009,s4093,Movie,Kevin James: Sweat the Small Stuff,Paul Miller,United States,2/20/2019,2001,TV-PG,42 min,Stand-Up Comedy
+3024,s4109,Movie,Sur: The Melody of Life,Tanuja Chandra,India,2/15/2019,2002,TV-14,137 min,"Dramas, International Movies"
+3084,s4212,Movie,Nang Nak,Nonzee Nimibutr,Thailand,1/5/2019,1999,TV-MA,101 min,"Horror Movies, International Movies, Romantic Movies"
+3087,s4218,Movie,Monty Python and the Holy Grail,"Terry Gilliam, Terry Jones",United Kingdom,1/2/2019,1975,PG,92 min,"Action & Adventure, Classic Movies, Comedies"
+3097,s4230,Movie,Bill Hicks: One Night Stand,John Fortenberry,United Kingdom,12/31/2018,1991,TV-MA,28 min,Stand-Up Comedy
+3098,s4232,Movie,Bill Hicks: Relentless,Chris Bould,United Kingdom,12/31/2018,1992,TV-MA,61 min,Stand-Up Comedy
+3099,s4233,Movie,Bill Hicks: Revelations,Chris Bould,United Kingdom,12/31/2018,1993,TV-MA,56 min,Stand-Up Comedy
+3100,s4234,Movie,Bill Hicks: Sane Man,"Kevin Booth, David Johndrow",United States,12/31/2018,1989,TV-MA,81 min,Stand-Up Comedy
+3102,s4238,Movie,Sam Kinison: Breaking the Rules,Walter C. Miller,United States,12/31/2018,1987,TV-MA,50 min,Stand-Up Comedy
+3103,s4239,Movie,Sam Kinison: Family Entertainment Hour,Walter C. Miller,United States,12/31/2018,1991,TV-MA,49 min,Stand-Up Comedy
+3104,s4240,Movie,Sam Kinison: Live in Vegas,Walter C. Miller,United States,12/31/2018,1991,TV-MA,71 min,Stand-Up Comedy
+3106,s4245,Movie,Tim Allen: Men Are Pigs,Ellen Brown,United States,12/31/2018,1990,TV-MA,30 min,Stand-Up Comedy
+3299,s4546,Movie,Monty Python: Before the Flying Circus,Will Yapp,United Kingdom,10/2/2018,2000,TV-MA,56 min,"Comedies, Documentaries"
+3300,s4548,Movie,Monty Python: Live at The Hollywood Bowl,"Terry Hughes, Ian MacNaughton",United Kingdom,10/2/2018,1982,R,80 min,Comedies
+3303,s4553,Movie,Monty Python's Life of Brian,Terry Jones,United Kingdom,10/2/2018,1979,R,94 min,"Classic Movies, Comedies, Cult Movies"
+3305,s4555,Movie,Parrot Sketch Not Included: Twenty Years of Monty Python,Ian MacNaughton,United Kingdom,10/2/2018,1989,TV-14,72 min,Comedies
+3394,s4687,Movie,One Last Shot,Mike Clattenburg,Canada,8/24/2018,1998,TV-MA,31 min,Comedies
+3420,s4724,Movie,Fiza,Khalid Mohamed,India,8/2/2018,2000,TV-14,163 min,"Dramas, International Movies, Music & Musicals"
+3467,s4793,Movie,Chalte Chalte,Aziz Mirza,India,7/1/2018,2003,TV-14,166 min,"Dramas, International Movies, Romantic Movies"
+3516,s4862,Movie,Lupin the 3rd: The Castle of Cagliostro: Special Edition,Hayao Miyazaki,Japan,5/15/2018,1979,PG-13,100 min,"Action & Adventure, Anime Features, Classic Movies"
+3585,s4957,Movie,Phir Bhi Dil Hai Hindustani,Aziz Mirza,India,4/1/2018,2000,TV-14,159 min,"Comedies, Dramas, International Movies"
+3617,s5008,Movie,Dil Se,Mani Ratnam,India,3/1/2018,1998,TV-14,166 min,"Dramas, International Movies, Romantic Movies"
+3654,s5057,Movie,Jerry Seinfeld: I'm Telling You for the Last Time,Marty Callner,United States,1/30/2018,1998,TV-14,69 min,Stand-Up Comedy
+3669,s5080,Movie,Alibaba Aur 40 Chor,"Latif Faiziyev, Umesh Mehra",Soviet Union,1/15/2018,1980,TV-14,147 min,"Action & Adventure, International Movies, Sci-Fi & Fantasy"
+3670,s5081,Movie,Pyar Ke Do Pal,Rajiv Mehra,India,1/15/2018,1986,TV-14,153 min,"Dramas, International Movies, Music & Musicals"
+3702,s5131,Movie,Jaal,Umesh Mehra,India,12/8/2017,1986,TV-14,162 min,"Action & Adventure, International Movies"
+3703,s5132,Movie,Shikari,"Latif Faiziyev, Umesh Mehra",India,12/8/2017,1991,TV-14,163 min,"Dramas, International Movies, Music & Musicals"
+3732,s5180,Movie,Jerry Seinfeld: Comedian,Christian Charles,United States,11/7/2017,2002,R,81 min,Documentaries
+3737,s5187,Movie,Bandie,Alo Sarkar,India,11/1/2017,1978,TV-PG,141 min,"Action & Adventure, Dramas, International Movies"
+3757,s5221,Movie,Singapore,Shakti Samanta,India,10/15/2017,1960,TV-PG,158 min,"Comedies, Dramas, International Movies"
+3798,s5291,Movie,Aakhri Adaalat,Rajiv Mehra,India,9/1/2017,1988,TV-14,148 min,"Action & Adventure, International Movies"
+3802,s5297,Movie,Ek Jaan Hain Hum,Rajiv Mehra,India,9/1/2017,1983,TV-14,151 min,"Dramas, International Movies, Music & Musicals"
+3803,s5301,Movie,Khoon Khoon,Mohammed Hussain,India,9/1/2017,1973,TV-14,132 min,"Action & Adventure, International Movies"
+3805,s5304,Movie,Manoranjan,Shammi Kapoor,India,9/1/2017,1974,TV-14,162 min,"Comedies, International Movies, Music & Musicals"
+3806,s5305,Movie,Mujrim,Umesh Mehra,India,9/1/2017,1989,TV-14,163 min,"Action & Adventure, Dramas, International Movies"
+3810,s5310,Movie,Sohni Mahiwal,"Latif Faiziyev, Umesh Mehra",India,9/1/2017,1984,TV-14,160 min,"Dramas, International Movies, Romantic Movies"
+3868,s5392,Movie,Amrapali,Lekh Tandon,India,7/1/2017,1966,TV-PG,116 min,"Dramas, International Movies, Music & Musicals"
+3870,s5397,Movie,Lal Patthar,Sushil Majumdar,India,7/1/2017,1971,TV-14,153 min,"Classic Movies, Dramas, International Movies"
+3872,s5401,Movie,Professor,Lekh Tandon,India,7/1/2017,1962,TV-PG,163 min,"Comedies, Dramas, International Movies"
+3874,s5409,Movie,Yaar Gaddar,Umesh Mehra,India,7/1/2017,1994,TV-14,148 min,"Dramas, International Movies"
+3895,s5448,Movie,Aashik Awara,Umesh Mehra,India,6/1/2017,1993,TV-14,154 min,"Dramas, International Movies, Music & Musicals"
+3903,s5456,Movie,Maya Memsaab,Ketan Mehta,France,6/1/2017,1993,TV-14,122 min,"Dramas, International Movies, Music & Musicals"
+3905,s5461,Movie,Oh Darling Yeh Hai India,Ketan Mehta,India,6/1/2017,1995,TV-14,154 min,"Action & Adventure, Comedies, International Movies"
+3906,s5462,Movie,Prince,Lekh Tandon,India,6/1/2017,1969,TV-PG,152 min,"Dramas, International Movies, Romantic Movies"
+3907,s5463,Movie,Qila,Umesh Mehra,India,6/1/2017,1998,TV-14,161 min,"Dramas, International Movies"
+3922,s5482,Movie,Chamatkar,Rajiv Mehra,India,5/15/2017,1992,TV-14,164 min,"Comedies, International Movies, Sci-Fi & Fantasy"
+3923,s5483,Movie,Kabhi Haan Kabhi Naa,Kundan Shah,India,5/15/2017,1994,TV-14,151 min,"Comedies, Dramas, International Movies"
+3926,s5486,Movie,Ram Jaane,Rajiv Mehra,India,5/15/2017,1995,TV-14,142 min,"Dramas, International Movies, Music & Musicals"
+3937,s5500,Movie,Chaahat,Mahesh Bhatt,India,5/1/2017,1996,TV-14,148 min,"Dramas, International Movies, Romantic Movies"
+3938,s5501,Movie,English Babu Desi Mem,Praveen Nischol,India,5/1/2017,1996,TV-14,163 min,"Comedies, Dramas, International Movies"
+3973,s5546,Movie,Elaan,K. Ramanlal,India,4/1/2017,1971,TV-14,143 min,"Action & Adventure, Cult Movies, International Movies"
+3977,s5550,Movie,Salaakhen,A. Salaam,India,4/1/2017,1975,TV-14,134 min,"Action & Adventure, International Movies, Music & Musicals"
+3992,s5571,Movie,Howards End,James Ivory,United Kingdom,3/16/2017,1992,PG,143 min,"Classic Movies, Dramas, Independent Movies"
+3993,s5572,Movie,Asoka,Santosh Sivan,India,3/15/2017,2001,R,168 min,"Action & Adventure, Dramas, International Movies"
+3996,s5575,Movie,One 2 Ka 4,Shashilal K. Nair,India,3/15/2017,2001,TV-14,160 min,"Action & Adventure, Comedies, Dramas"
+4020,s5613,Movie,Hitler - A Career,"Joachim Fest, Christian Herrendoerfer",West Germany,2/10/2017,1977,TV-MA,150 min,"Documentaries, International Movies"
+4088,s5705,Movie,Richard Pryor: Live in Concert,Jeff Margolis,United States,12/1/2016,1979,TV-MA,79 min,Stand-Up Comedy
+4153,s5822,Movie,Children of God,John Smithson,United Kingdom,8/1/2016,1994,TV-MA,63 min,Documentaries
+4238,s5943,Movie,A Stoning in Fulham County,Larry Elikann,United States,10/1/2011,1988,TV-14,95 min,Dramas
+4239,s5944,Movie,Adam: His Song Continues,Robert Markowitz,United States,10/1/2011,1986,TV-MA,96 min,Dramas
+4240,s5945,Movie,Hard Lessons,Eric Laneuville,United States,10/1/2011,1986,TV-14,94 min,Dramas
+4241,s5946,Movie,In Defense of a Married Man,Joel Oliansky,United States,10/1/2011,1990,TV-14,94 min,Dramas
+4242,s5947,Movie,Quiet Victory: The Charlie Wedemeyer Story,Roy Campanella II,United States,10/1/2011,1988,TV-PG,93 min,"Dramas, Sports Movies"
+4243,s5948,Movie,Strange Voices,Arthur Allan Seidelman,United States,10/1/2011,1987,TV-PG,96 min,Dramas
+4244,s5949,Movie,The Ryan White Story,John Herzfeld,United States,10/1/2011,1989,TV-PG,94 min,Dramas
+4245,s5950,Movie,Too Young the Hero,Buzz Kulik,United States,10/1/2011,1988,TV-MA,94 min,Dramas
+4246,s5951,Movie,Triumph of the Heart,Richard Michaels,United States,10/1/2011,1991,TV-PG,93 min,"Dramas, Sports Movies"
+4247,s5952,Movie,Unspeakable Acts,Linda Otto,United States,10/1/2011,1990,TV-14,95 min,Dramas
+4248,s5953,Movie,Victim of Beauty,Roger Young,United States,10/1/2011,1991,TV-14,93 min,"Dramas, Thrillers"
+4249,s5954,Movie,Joseph: King of Dreams,"Rob LaDuca, Robert C. Ramirez",United States,9/27/2011,2000,TV-PG,75 min,"Children & Family Movies, Dramas, Faith & Spirituality"
+4256,s5961,Movie,187,Kevin Reynolds,United States,11/1/2019,1997,R,119 min,Dramas
+4284,s6008,Movie,3 Deewarein,Nagesh Kukunoor,India,12/31/2019,2003,TV-MA,121 min,"Dramas, International Movies, Thrillers"
+4292,s6007,Movie,28 Days,Betty Thomas,United States,9/30/2020,2000,PG-13,104 min,"Comedies, Dramas"
+4298,s6014,Movie,300 Miles to Heaven,Maciej Dejczer,Denmark,10/1/2019,1989,TV-14,93 min,"Dramas, International Movies"
+4314,s6031,Movie,A Bridge Too Far,Richard Attenborough,United States,7/1/2020,1977,PG,176 min,"Action & Adventure, Classic Movies, Dramas"
+4315,s6032,Movie,A Clockwork Orange,Stanley Kubrick,United Kingdom,11/1/2020,1971,R,137 min,"Classic Movies, Cult Movies, Dramas"
+4316,s6033,Movie,A Dangerous Woman,Stephen Gyllenhaal,United States,4/1/2018,1993,R,101 min,"Dramas, Romantic Movies"
+4330,s6050,Movie,A Night at the Roxbury,John Fortenberry,United States,12/1/2019,1998,PG-13,82 min,"Comedies, Cult Movies"
+4341,s6061,Movie,A Thin Line Between Love & Hate,Martin Lawrence,United States,12/1/2020,1996,R,108 min,"Comedies, Romantic Movies"
+4343,s6063,Movie,A Walk to Remember,Adam Shankman,United States,7/1/2020,2002,PG,102 min,"Dramas, Romantic Movies"
+4360,s6082,Movie,About a Boy,"Chris Weitz, Paul Weitz",United Kingdom,2/1/2019,2002,PG-13,101 min,"Comedies, Dramas, International Movies"
+4384,s6112,Movie,Alice Doesn't Live Here Anymore,Martin Scorsese,United States,7/1/2019,1974,PG,112 min,"Classic Movies, Comedies, Dramas"
+4389,s6117,Movie,All Dogs Go to Heaven,"Don Bluth, Gary Goldman, Dan Kuenster",Ireland,6/1/2020,1989,G,85 min,Children & Family Movies
+4396,s6124,Movie,Along Came a Spider,Lee Tamahori,United States,10/1/2019,2001,R,103 min,Thrillers
+4403,s6131,Movie,Amar Akbar Anthony,Manmohan Desai,India,12/31/2019,1977,TV-14,172 min,"Action & Adventure, Classic Movies, Comedies"
+4407,s6136,Movie,American Beauty,Sam Mendes,United States,1/1/2020,1999,R,122 min,Dramas
+4414,s6144,Movie,American History X,Tony Kaye,United States,11/1/2019,1998,R,119 min,Dramas
+4417,s6148,Movie,American Psycho,Mary Harron,United States,9/1/2019,2000,R,102 min,"Comedies, Cult Movies, Dramas"
+4421,s6152,Movie,An American Tail,Don Bluth,United States,4/1/2018,1986,G,80 min,Children & Family Movies
+4422,s6153,Movie,An American Tail: Fievel Goes West,"Phil Nibbelink, Simon Wells",United States,4/1/2018,1991,G,75 min,Children & Family Movies
+4423,s6154,Movie,An American Tail: The Mystery of the Night Monster,Larry Latham,United States,4/1/2018,1999,G,75 min,Children & Family Movies
+4424,s6155,Movie,An American Tail: The Treasures of Manhattan Island,Larry Latham,United States,4/1/2018,2000,G,79 min,Children & Family Movies
+4431,s6164,Movie,Angel Eyes,Luis Mandoki,United States,9/5/2020,2001,R,103 min,"Dramas, Romantic Movies"
+4432,s6165,Movie,Anger Management,Peter Segal,United States,11/1/2019,2003,PG-13,105 min,Comedies
+4453,s6189,Movie,As Good as It Gets,James L. Brooks,United States,1/1/2020,1997,PG-13,139 min,"Comedies, Romantic Movies"
+4461,s6198,Movie,Auschwitz: Blueprints of Genocide,Mike Rossiter,United Kingdom,1/19/2019,1994,TV-PG,49 min,Documentaries
+4474,s6212,Movie,Bad Boys,Michael Bay,United States,10/1/2019,1995,R,119 min,"Action & Adventure, Comedies"
+4475,s6213,Movie,Bad Boys II,Michael Bay,United States,10/1/2019,2003,R,147 min,"Action & Adventure, Comedies"
+4480,s6221,Movie,Balto,Simon Wells,United States,4/1/2018,1995,G,78 min,"Children & Family Movies, Dramas"
+4481,s6222,Movie,Balto 2: Wolf Quest,Phil Weinstein,United States,4/1/2018,2001,G,75 min,Children & Family Movies
+4489,s6230,Movie,Bangkok Hell,Manop Janjarasskul,Thailand,9/14/2018,2002,TV-MA,107 min,"Dramas, International Movies"
+4506,s6247,Movie,Barsaat,Rajkumar Santoshi,India,4/1/2018,1995,TV-PG,166 min,"Action & Adventure, International Movies, Music & Musicals"
+4507,s6248,Movie,BASEketball,David Zucker,United States,11/1/2018,1998,R,103 min,"Comedies, Sports Movies"
+4508,s6249,Movie,Basic Instinct,Paul Verhoeven,United States,10/1/2020,1992,R,128 min,"Classic Movies, Thrillers"
+4510,s6255,Movie,Bawarchi,Hrishikesh Mukherjee,India,12/31/2019,1972,TV-PG,125 min,"Classic Movies, Comedies, Dramas"
+4511,s6256,Movie,Bazaar,Sagar Sarhadi,India,12/31/2019,1982,TV-14,121 min,"Dramas, Independent Movies, International Movies"
+4515,s6261,Movie,Bean: The Ultimate Disaster Movie,Mel Smith,United Kingdom,8/1/2018,1997,PG-13,89 min,"Comedies, International Movies"
+4516,s6267,Movie,Beavis and Butt-head Do America,Mike Judge,United States,11/20/2019,1996,PG-13,81 min,"Comedies, Cult Movies"
+4517,s6268,Movie,Bebe's Kids,Bruce W. Smith,United States,11/20/2019,1992,PG-13,73 min,Comedies
+4530,s6285,Movie,Benji's Very Own Christmas Story,Joe Camp,United States,10/3/2018,1978,TV-G,25 min,Children & Family Movies
+4541,s6300,Movie,Bhoot,Ram Gopal Varma,India,12/31/2019,2003,TV-MA,114 min,"Horror Movies, International Movies, Thrillers"
+4544,s6304,Movie,Big Daddy,Dennis Dugan,United States,10/1/2020,1999,PG-13,93 min,Comedies
+4545,s6306,Movie,Big Fat Liar,Shawn Levy,United States,1/15/2020,2002,PG,88 min,"Children & Family Movies, Comedies"
+4549,s6310,Movie,Biggie & Tupac,Nick Broomfield,United Kingdom,1/26/2019,2002,R,108 min,"Documentaries, Music & Musicals"
+4551,s6312,Movie,Billy Elliot,Stephen Daldry,United Kingdom,2/1/2019,2000,R,110 min,"Dramas, Independent Movies, International Movies"
+4561,s6323,Movie,Black Hawk Down,Ridley Scott,United States,1/1/2019,2001,R,144 min,"Action & Adventure, Dramas"
+4573,s6338,Movie,Blow,Ted Demme,United States,10/1/2019,2001,R,123 min,Dramas
+4579,s6344,Movie,Blue Streak,Les Mayfield,Germany,1/1/2021,1999,PG-13,94 min,"Action & Adventure, Comedies"
+4585,s6351,Movie,Bobby,Raj Kapoor,India,12/31/2019,1973,TV-14,168 min,"Classic Movies, Dramas, International Movies"
+4592,s6359,Movie,Bonnie and Clyde,Arthur Penn,United States,1/1/2021,1967,R,111 min,"Action & Adventure, Classic Movies, Dramas"
+4593,s6360,Movie,Boom,Kaizad Gustad,India,3/1/2018,2003,TV-MA,79 min,"Action & Adventure, Dramas, International Movies"
+4618,s6396,Movie,Butterfield 8,Daniel Mann,United States,11/1/2019,1960,TV-14,108 min,"Classic Movies, Dramas, Romantic Movies"
+4631,s6415,Movie,Can't Hardly Wait,"Harry Elfont, Deborah Kaplan",United States,1/1/2021,1998,PG-13,101 min,"Comedies, Romantic Movies"
+4632,s6416,Movie,Candyman,Bernard Rose,United States,10/1/2019,1992,R,99 min,"Cult Movies, Horror Movies"
+4638,s6424,Movie,Carrie,Brian De Palma,United States,6/1/2019,1976,R,98 min,"Classic Movies, Cult Movies, Horror Movies"
+4642,s6429,Movie,Casino Tycoon,Wong Jing,Hong Kong,8/1/2018,1992,TV-MA,125 min,"Action & Adventure, Dramas, International Movies"
+4643,s6430,Movie,Casino Tycoon 2,Wong Jing,Hong Kong,8/16/2018,1992,TV-MA,108 min,"Action & Adventure, Dramas, International Movies"
+4644,s6432,Movie,Cat on a Hot Tin Roof,Richard Brooks,United States,11/1/2019,1958,NR,108 min,"Classic Movies, Dramas"
+4650,s6438,Movie,Center Stage,Nicholas Hytner,United States,1/1/2020,2000,PG-13,116 min,Dramas
+4653,s6441,Movie,Chal Mere Bhai,David Dhawan,India,12/31/2019,2000,TV-14,132 min,"Comedies, International Movies, Romantic Movies"
+4660,s6448,Movie,Charlie's Angels: Full Throttle,McG,United States,10/1/2019,2003,PG-13,106 min,"Action & Adventure, Comedies"
+4661,s6449,Movie,Charlotte's Web,"Charles A. Nichols, Iwao Takamoto",United States,11/23/2019,1973,G,94 min,"Children & Family Movies, Classic Movies"
+4663,s6451,Movie,Chasing Amy,Kevin Smith,United States,1/1/2020,1997,R,113 min,"Comedies, Cult Movies, Dramas"
+4675,s6469,Movie,Child's Play,Tom Holland,United States,12/31/2019,1988,R,87 min,"Cult Movies, Horror Movies"
+4679,s6474,Movie,Chitty Chitty Bang Bang,Ken Hughes,United Kingdom,1/1/2020,1968,G,146 min,"Children & Family Movies, Classic Movies, Comedies"
+4689,s6486,Movie,Chupke Chupke,Hrishikesh Mukherjee,India,12/31/2019,1975,TV-PG,127 min,"Classic Movies, Comedies, International Movies"
+4691,s6489,Movie,City of God,"Fernando Meirelles, Katia Lund",Brazil,1/1/2020,2002,R,130 min,"Dramas, Independent Movies, International Movies"
+4695,s6494,Movie,Class of '61,Gregory Hoblit,United States,4/1/2018,1993,TV-PG,91 min,Dramas
+4697,s6497,Movie,Cleopatra Jones,Jack Starrett,United States,11/1/2019,1973,PG,89 min,"Action & Adventure, Classic Movies"
+4712,s6523,Movie,Company,Ram Gopal Varma,India,3/1/2018,2002,TV-MA,137 min,"Action & Adventure, Dramas, International Movies"
+4721,s6534,Movie,Cool Hand Luke,Stuart Rosenberg,United States,1/1/2021,1967,TV-14,127 min,"Classic Movies, Dramas"
+4729,s6544,Movie,"Crouching Tiger, Hidden Dragon",Ang Lee,Taiwan,3/1/2019,2000,PG-13,120 min,"Action & Adventure, International Movies, Romantic Movies"
+4734,s6549,Movie,Dad,Gary David Goldberg,United States,4/1/2018,1989,PG,117 min,Dramas
+4735,s6551,Movie,Daddy Day Care,Steve Carr,United States,1/1/2019,2003,PG,93 min,"Children & Family Movies, Comedies"
+4744,s6563,Movie,Dante's Peak,Roger Donaldson,United States,9/1/2019,1997,PG-13,108 min,Action & Adventure
+4749,s6568,Movie,Darna Mana Hai,Prawal Raman,India,8/1/2019,2003,TV-MA,116 min,"Horror Movies, International Movies, Thrillers"
+4751,s6571,Movie,Daughters of the Dust,Julie Dash,United Kingdom,6/10/2017,1991,NR,112 min,"Classic Movies, Dramas, Independent Movies"
+4766,s6589,Movie,Deewangee,Anees Bazmee,India,1/3/2020,2002,TV-MA,156 min,"International Movies, Thrillers"
+4771,s6594,Movie,Denis Leary: No Cure For Cancer,Ted Demme,United States,8/8/2017,1992,R,62 min,Stand-Up Comedy
+4783,s6610,Movie,Die Another Day,Lee Tamahori,United Kingdom,12/31/2019,2002,PG-13,133 min,Action & Adventure
+4784,s6611,Movie,Dil Hai Tumhaara,Kundan Shah,India,4/1/2018,2002,TV-14,176 min,"Dramas, International Movies, Music & Musicals"
+4786,s6615,Movie,Disciples Of The 36th Chamber,Chia-Liang Liu,Hong Kong,8/16/2018,1985,TV-14,90 min,"Action & Adventure, International Movies"
+4790,s6620,Movie,Doctor Zhivago,David Lean,United States,11/1/2019,1965,PG-13,200 min,"Classic Movies, Dramas, Romantic Movies"
+4804,s6634,Movie,Donnie Brasco,Mike Newell,United States,1/1/2020,1997,R,127 min,"Dramas, Thrillers"
+4807,s6637,Movie,Doubles Cause Troubles,Wong Jing,Hong Kong,8/1/2018,1989,TV-14,94 min,"Action & Adventure, Comedies, International Movies"
+4810,s6640,Movie,Dr. Seuss' The Cat in the Hat,Bo Welch,United States,5/1/2019,2003,PG,82 min,"Children & Family Movies, Comedies"
+4812,s6642,Movie,Dragonheart,Rob Cohen,United States,1/1/2020,1996,PG-13,103 min,"Action & Adventure, Sci-Fi & Fantasy"
+4814,s6644,Movie,Dragonheart: A New Beginning,Doug Lefler,United States,1/1/2020,2000,PG,84 min,"Action & Adventure, Sci-Fi & Fantasy"
+4819,s6655,Movie,Dum,Eeshwar Nivas,India,3/1/2018,2003,TV-14,162 min,"Action & Adventure, Dramas, International Movies"
+4820,s6656,Movie,Dumb and Dumberer: When Harry Met Lloyd,Troy Miller,United States,10/1/2019,2003,PG-13,85 min,Comedies
+4826,s6666,Movie,Eddie Murphy: Delirious,Bruce Gowers,United States,4/15/2018,1983,TV-MA,69 min,Stand-Up Comedy
+4847,s6695,Movie,Encounter: The Killing,Ajay Phansekar,India,12/31/2019,2002,TV-14,151 min,"Dramas, Independent Movies, International Movies"
+4852,s6702,Movie,Enter the Dragon,Robert Clouse,Hong Kong,1/1/2021,1973,R,103 min,"Action & Adventure, Classic Movies"
+4854,s6704,Movie,Equilibrium,Kurt Wimmer,United States,6/8/2019,2002,R,107 min,"Action & Adventure, Dramas, Sci-Fi & Fantasy"
+4855,s6705,Movie,Escape from the Liberty Cinema,Wojciech Marczewski,Poland,10/1/2019,1990,TV-MA,88 min,"Comedies, Dramas, Independent Movies"
+4856,s6706,Movie,Esperando La Carroza,Alejandro Doria,Argentina,7/15/2018,1985,NR,95 min,"Comedies, Cult Movies, International Movies"
+4860,s6712,Movie,Event Horizon,Paul W.S. Anderson,United Kingdom,1/1/2020,1997,R,96 min,"Horror Movies, Sci-Fi & Fantasy"
+4864,s6716,Movie,Evolution,Ivan Reitman,United States,11/20/2019,2001,PG-13,102 min,"Comedies, Sci-Fi & Fantasy"
+4866,s6720,Movie,Executive Decision,Stuart Baird,United States,11/1/2019,1996,R,133 min,Action & Adventure
+4869,s6723,Movie,Exit Wounds,Andrzej Bartkowiak,United States,10/1/2019,2001,R,101 min,Action & Adventure
+4878,s6736,Movie,Fallen,Gregory Hoblit,United States,11/1/2019,1998,R,124 min,Thrillers
+4885,s6744,Movie,Fear and Loathing in Las Vegas,Terry Gilliam,United States,11/1/2019,1998,R,118 min,"Comedies, Cult Movies, Dramas"
+4887,s6747,Movie,Fiddler on the Roof,Norman Jewison,United States,7/1/2020,1971,G,181 min,"Classic Movies, Dramas, Music & Musicals"
+4893,s6754,Movie,Final Destination,James Wong,United States,1/1/2020,2000,R,98 min,"Cult Movies, Horror Movies, Thrillers"
+4894,s6755,Movie,Final Destination 2,David R. Ellis,United States,1/1/2020,2003,R,90 min,"Horror Movies, Thrillers"
+4903,s6766,Movie,Five Elements Ninjas,Cheh Chang,Hong Kong,9/17/2019,1982,R,104 min,"Action & Adventure, International Movies"
+4908,s6772,Movie,Flying Guillotine 2,"Kang Cheng, Shan Hua",Hong Kong,7/31/2018,1978,TV-MA,88 min,"Action & Adventure, International Movies"
+4916,s6782,Movie,For the Love of Benji,Joe Camp,United States,3/6/2018,1977,G,84 min,Children & Family Movies
+4918,s6785,Movie,Forbidden Planet,Fred M. Wilcox,United States,11/1/2019,1956,G,98 min,"Action & Adventure, Classic Movies, Sci-Fi & Fantasy"
+4923,s6793,Movie,Four Weddings and a Funeral,Mike Newell,United Kingdom,8/1/2019,1994,R,118 min,"Classic Movies, Comedies, International Movies"
+4928,s6799,Movie,Free Willy,Simon Wincer,United States,1/1/2020,1993,PG,112 min,"Children & Family Movies, Dramas"
+4949,s6827,Movie,Gangs of New York,Martin Scorsese,United States,8/20/2019,2002,R,167 min,Dramas
+4955,s6838,Movie,George of the Jungle 2,David Grossman,United States,12/20/2016,2003,PG,87 min,"Children & Family Movies, Comedies"
+4961,s6845,Movie,Ghayal,Rajkumar Santoshi,India,12/31/2019,1990,TV-14,163 min,"Action & Adventure, Dramas, International Movies"
+4968,s6852,Movie,Ghulam-E-Musthafa,Partho Ghosh,India,12/31/2019,1997,TV-MA,161 min,"Action & Adventure, Dramas, International Movies"
+4970,s6854,Movie,Gigi,"Vincente Minnelli, Charles Walters",United States,11/1/2019,1958,G,115 min,"Classic Movies, Comedies, Music & Musicals"
+4980,s6865,Movie,Gol Maal,Hrishikesh Mukherjee,India,12/31/2019,1979,TV-PG,137 min,"Classic Movies, Comedies, International Movies"
+4982,s6867,Movie,GoldenEye,Martin Campbell,United Kingdom,12/31/2019,1995,PG-13,130 min,Action & Adventure
+4994,s6881,Movie,GoodFellas,Martin Scorsese,United States,1/1/2021,1990,R,145 min,"Classic Movies, Dramas"
+4998,s6885,Movie,Gosford Park,Robert Altman,United States,11/1/2019,2001,R,137 min,"Comedies, Dramas, International Movies"
+4999,s6887,Movie,Gothika,Mathieu Kassovitz,United States,1/1/2021,2003,R,98 min,"Horror Movies, Thrillers"
+5004,s6894,Movie,Grease,Randal Kleiser,United States,11/1/2019,1978,PG,110 min,"Classic Movies, Comedies, Music & Musicals"
+5018,s6913,Movie,Hamara Dil Aapke Paas Hai,Satish Kaushik,India,3/1/2018,2000,TV-14,158 min,"Dramas, International Movies, Music & Musicals"
+5019,s6914,Movie,Hamburger Hill,John Irvin,United States,11/23/2019,1987,R,110 min,"Action & Adventure, Dramas"
+5035,s6937,Movie,Haseena Maan Jaayegi,David Dhawan,India,3/1/2018,1999,TV-PG,151 min,"Action & Adventure, Comedies, Dramas"
+5044,s6948,Movie,Head On,Ana Kokkinos,Australia,8/25/2018,1998,TV-MA,104 min,"Dramas, Independent Movies, LGBTQ Movies"
+5046,s6950,Movie,Heartbreakers,David Mirkin,United States,12/31/2019,2001,PG-13,124 min,"Comedies, Romantic Movies"
+5054,s6961,Movie,Hera Pheri,Prakash Mehra,India,12/31/2019,1976,TV-14,156 min,"Action & Adventure, Comedies, Dramas"
+5056,s6963,Movie,Hero,Corey Yuen,Hong Kong,8/1/2018,1997,TV-MA,89 min,"Action & Adventure, International Movies"
+5089,s7008,Movie,Hotel Pacific,Janusz Majewski,Poland,10/1/2019,1975,TV-MA,96 min,"Classic Movies, Dramas, International Movies"
+5097,s7014,Movie,How the Grinch Stole Christmas,Ron Howard,United States,6/1/2017,2000,PG,105 min,"Children & Family Movies, Comedies"
+5099,s7016,Movie,How to Be a Player,Lionel C. Martin,United States,11/1/2019,1997,R,94 min,Comedies
+5101,s7019,Movie,How to Make an American Quilt,Jocelyn Moorhouse,United States,4/1/2018,1995,PG-13,116 min,"Dramas, Romantic Movies"
+5105,s7023,Movie,Hum Saath-Saath Hain,Sooraj R. Barjatya,India,1/1/2018,1999,TV-G,176 min,"Dramas, International Movies, Music & Musicals"
+5134,s7059,Movie,Immoral Tales,Walerian Borowczyk,France,6/6/2019,1974,UR,103 min,"Dramas, International Movies, Romantic Movies"
+5145,s7072,Movie,Indiana Jones and the Last Crusade,Steven Spielberg,United States,1/1/2019,1989,PG-13,127 min,"Action & Adventure, Children & Family Movies, Classic Movies"
+5146,s7073,Movie,Indiana Jones and the Raiders of the Lost Ark,Steven Spielberg,United States,1/1/2019,1981,PG,116 min,"Action & Adventure, Children & Family Movies, Classic Movies"
+5147,s7074,Movie,Indiana Jones and the Temple of Doom,Steven Spielberg,United States,1/1/2019,1984,PG,119 min,"Action & Adventure, Children & Family Movies, Classic Movies"
+5158,s7090,Movie,Inuyasha the Movie - La spada del dominatore del mondo,Toshiya Shinohara,Japan,9/1/2017,2003,TV-14,99 min,"Action & Adventure, Anime Features, International Movies"
+5160,s7091,Movie,InuYasha: The Movie 2: The Castle Beyond the Looking Glass,Toshiya Shinohara,Japan,9/1/2017,2002,TV-14,99 min,"Action & Adventure, Anime Features, International Movies"
+5172,s7104,Movie,It Takes Two,Andy Tennant,United States,11/20/2019,1995,PG,101 min,"Children & Family Movies, Comedies"
+5179,s7114,Movie,Jackie Brown,Quentin Tarantino,United States,8/1/2019,1997,R,154 min,"Dramas, Thrillers"
+5185,s7122,Movie,Jay and Silent Bob Strike Back,Kevin Smith,United States,1/1/2019,2001,R,105 min,"Comedies, Cult Movies"
+5186,s7123,Movie,Jealousy and medicine,Janusz Majewski,Poland,10/1/2019,1973,TV-MA,97 min,"Dramas, International Movies, Romantic Movies"
+5191,s7131,Movie,Jimi Hendrix,Joe Boyd,United States,11/1/2019,1973,R,102 min,"Documentaries, Music & Musicals"
+5196,s7134,Movie,Jis Desh Men Ganga Behti Hai,Radhu Karmakar,Not Given,12/31/2019,1960,TV-14,181 min,"Action & Adventure, Dramas, International Movies"
+5201,s7145,Movie,Judwaa,David Dhawan,India,12/31/2019,1997,TV-14,133 min,"Comedies, International Movies, Romantic Movies"
+5209,s7154,Movie,"Justice, My Foot!",Johnnie To,Hong Kong,8/31/2018,1992,TV-14,95 min,"Action & Adventure, Comedies, International Movies"
+5211,s7157,Movie,K-19: The Widowmaker,Kathryn Bigelow,United Kingdom,11/21/2019,2002,PG-13,138 min,"Action & Adventure, Dramas"
+5214,s7161,Movie,Kaalia,Tinnu Anand,India,12/31/2019,1981,TV-14,173 min,"Action & Adventure, Dramas, International Movies"
+5223,s7171,Movie,Kate & Leopold,James Mangold,United States,1/1/2020,2001,PG-13,118 min,"Comedies, Romantic Movies"
+5224,s7172,Movie,Katha,Sai Paranjape,India,12/31/2019,1982,TV-PG,140 min,"Comedies, Dramas, Independent Movies"
+5228,s7176,TV Show,Ken Burns: The Civil War,Ken Burns,United States,2/22/2017,1990,TV-14,1 Season,Docuseries
+5234,s7184,Movie,Khalnayak,Subhash Ghai,India,3/1/2018,1993,TV-14,170 min,"Action & Adventure, Dramas, International Movies"
+5236,s7189,Movie,Khubsoorat,Hrishikesh Mukherjee,India,12/31/2019,1980,TV-PG,120 min,"Classic Movies, Comedies, Dramas"
+5237,s7190,Movie,Khushi,"Surya S.J., Sunil Kumar Agrawal",India,3/1/2018,2003,TV-14,157 min,"Comedies, International Movies, Music & Musicals"
+5242,s7194,Movie,Kicking and Screaming,Noah Baumbach,United States,11/4/2019,1995,R,97 min,"Comedies, Independent Movies, Romantic Movies"
+5246,s7198,Movie,Kill Bill: Vol. 1,Quentin Tarantino,United States,1/1/2020,2003,R,111 min,Action & Adventure
+5252,s7204,Movie,Killer Klowns from Outer Space,Stephen Chiodo,United States,4/1/2020,1988,PG-13,86 min,"Comedies, Cult Movies, Horror Movies"
+5258,s7211,Movie,Kingpin,"Peter Farrelly, Bobby Farrelly",United States,1/1/2020,1996,PG-13,114 min,"Comedies, Cult Movies, Sports Movies"
+5261,s7214,Movie,Kiss the Girls,Gary Fleder,United States,1/1/2020,1997,R,116 min,Thrillers
+5264,s7220,Movie,Know Your Enemy - Japan,"Frank Capra, Joris Ivens",United States,3/31/2017,1945,TV-14,63 min,"Classic Movies, Documentaries"
+5268,s7225,Movie,Koshish,Gulzar,India,12/31/2019,1972,TV-14,115 min,"International Movies, Romantic Movies"
+5281,s7245,Movie,Kurt & Courtney,Nick Broomfield,United Kingdom,1/8/2019,1998,R,95 min,"Documentaries, Music & Musicals"
+5283,s7248,Movie,Kya Kehna,Kundan Shah,India,4/1/2018,2000,TV-PG,149 min,"Dramas, International Movies, Romantic Movies"
+5290,s7253,Movie,La Bamba,Luis Valdez,United States,1/1/2020,1987,PG-13,109 min,"Classic Movies, Dramas, Music & Musicals"
+5305,s7276,Movie,LeapFrog: Letter Factory,Roy Allen Smith,United States,4/15/2020,2003,TV-Y,37 min,Children & Family Movies
+5313,s7285,Movie,Legendary Weapons of China,Chia-Liang Liu,Hong Kong,8/16/2018,1982,TV-14,101 min,"Action & Adventure, Cult Movies, International Movies"
+5320,s7295,Movie,Let There Be Light,John Huston,United States,3/31/2017,1946,TV-PG,58 min,"Classic Movies, Documentaries"
+5326,s7311,Movie,Listen Up! The Lives of Quincy Jones,Ellen Weissbrod,Not Given,11/1/2019,1990,TV-14,116 min,"Documentaries, Music & Musicals"
+5328,s7304,Movie,Lifeline,Johnnie To,Hong Kong,8/16/2018,1997,TV-14,104 min,"Action & Adventure, International Movies"
+5330,s7306,Movie,Like Water for Chocolate,Alfonso Arau,Mexico,11/1/2019,1992,R,105 min,"Classic Movies, Dramas, International Movies"
+5335,s7312,Movie,Little Dragon Maiden,Hua Shan,Hong Kong,8/1/2018,1983,TV-14,92 min,"Action & Adventure, International Movies, Romantic Movies"
+5339,s7317,Movie,Little Nicky,Steve Brill,United States,12/1/2020,2000,PG-13,90 min,Comedies
+5343,s7327,Movie,"Lock, Stock and Two Smoking Barrels",Guy Ritchie,United Kingdom,1/1/2019,1998,R,108 min,"Action & Adventure, Comedies, Independent Movies"
+5350,s7331,Movie,Logan's Run,Michael Anderson,United States,11/1/2019,1976,PG,118 min,"Action & Adventure, Classic Movies, Cult Movies"
+5352,s7333,Movie,Lolita,Stanley Kubrick,United Kingdom,11/1/2019,1962,R,153 min,"Classic Movies, Dramas, Romantic Movies"
+5355,s7336,Movie,"Look Out, Officer",Sze Yu Lau,Hong Kong,8/16/2018,1990,TV-14,88 min,"Action & Adventure, Comedies, International Movies"
+5363,s7348,Movie,Love on Delivery,Stephen Chow,Hong Kong,8/16/2018,1994,TV-14,93 min,"Action & Adventure, Comedies, International Movies"
+5370,s7358,Movie,Loving You,Johnnie To,Hong Kong,8/16/2018,1995,TV-14,79 min,"Dramas, International Movies"
+5379,s7368,Movie,Mad Max,George Miller,Australia,8/1/2020,1979,R,93 min,"Action & Adventure, Classic Movies, Cult Movies"
+5381,s7371,Movie,Mad Ron's Prevues from Hell,Jim Monaco,United States,11/1/2010,1987,NR,84 min,"Cult Movies, Horror Movies"
+5391,s7385,Movie,Mahjong Heroes,Li Pei-Chuan,Hong Kong,8/16/2018,1981,TV-PG,92 min,"Comedies, International Movies"
+5393,s7388,Movie,Maine Pyar Kiya,Sooraj R. Barjatya,India,1/1/2018,1989,TV-PG,192 min,"Dramas, International Movies, Music & Musicals"
+5399,s7394,Movie,Mandi,Shyam Benegal,India,1/1/2020,1983,TV-MA,155 min,"Dramas, Independent Movies, International Movies"
+5405,s7400,Movie,Mansfield Park,Patricia Rozema,United Kingdom,1/1/2020,1999,PG-13,112 min,"Comedies, Dramas, International Movies"
+5412,s7411,Movie,Martial Arts of Shaolin,Chia-Liang Liu,Hong Kong,8/16/2018,1986,R,90 min,"Action & Adventure, International Movies"
+5413,s7412,Movie,Martin Lawrence Live: Runteldat,David Raynr,United States,12/1/2019,2002,R,104 min,Stand-Up Comedy
+5420,s7420,Movie,Masoom,Shekhar Kapur,India,12/31/2019,1983,TV-14,138 min,"Dramas, Independent Movies, International Movies"
+5429,s7429,Movie,Maza Pati Karodpati,Sachin,India,1/1/2018,1988,TV-PG,132 min,"Comedies, International Movies, Romantic Movies"
+5432,s7432,Movie,Mean Streets,Martin Scorsese,United States,7/1/2019,1973,R,112 min,"Classic Movies, Dramas, Independent Movies"
+5434,s7434,Movie,Medium,Jacek Koprowicz,Poland,10/1/2019,1985,TV-MA,90 min,"Horror Movies, International Movies, Thrillers"
+5437,s7440,Movie,Melvin Goes to Dinner,Bob Odenkirk,United States,7/1/2018,2003,R,84 min,"Comedies, Dramas, Independent Movies"
+5440,s7443,Movie,Men in Black,Barry Sonnenfeld,United States,10/19/2019,1997,PG-13,98 min,"Action & Adventure, Comedies, Sci-Fi & Fantasy"
+5441,s7444,Movie,Men in Black II,Barry Sonnenfeld,United States,10/1/2019,2002,PG-13,88 min,"Action & Adventure, Comedies, Sci-Fi & Fantasy"
+5468,s7482,Movie,Mona Lisa Smile,Mike Newell,United States,1/1/2019,2003,PG-13,119 min,Dramas
+5470,s7485,Movie,Money Talks,Brett Ratner,United States,11/1/2019,1997,R,96 min,"Action & Adventure, Comedies"
+5501,s7518,Movie,Mr. Deeds,Steve Brill,United States,8/1/2020,2002,PG-13,97 min,"Comedies, Romantic Movies"
+5503,s7520,Movie,Mr. Virgin,Anthony Chan,Hong Kong,8/16/2018,1984,TV-14,86 min,"Comedies, Dramas, International Movies"
+5511,s7531,Movie,Mutiny on the Bounty,"Lewis Milestone, Carol Reed",United States,11/1/2019,1962,TV-PG,185 min,"Action & Adventure, Classic Movies, Dramas"
+5522,s7545,Movie,"My Schoolmate, the Barbarian","Siu-hung Chung, Wong Jing",Hong Kong,8/16/2018,2001,TV-14,90 min,"Action & Adventure, Comedies, International Movies"
+5534,s7558,Movie,Namak Halaal,Prakash Mehra,India,12/31/2019,1982,TV-14,171 min,"Action & Adventure, Comedies, International Movies"
+5544,s7563,Movie,National Lampoon's Loaded Weapon 1,Gene Quintano,Not Given,11/1/2019,1993,PG-13,82 min,"Action & Adventure, Comedies, Independent Movies"
+5545,s7576,Movie,Nazi Concentration Camps,George Stevens,United States,3/31/2017,1945,TV-MA,59 min,"Classic Movies, Documentaries"
+5581,s7621,Movie,Now and Then,Lesli Linka Glatter,United States,8/2/2019,1995,PG-13,102 min,Dramas
+5592,s7638,Movie,Ocean's Eleven,Lewis Milestone,United States,11/1/2019,1960,TV-PG,127 min,"Action & Adventure, Classic Movies, Comedies"
+5603,s7652,Movie,On the Wrong Track,Clarence Yiu-leung Fok,Hong Kong,8/2/2018,1983,TV-14,89 min,"Action & Adventure, International Movies"
+5612,s7660,Movie,Once Upon a Time in the West,Sergio Leone,Italy,11/20/2019,1968,PG-13,166 min,"Action & Adventure, Classic Movies, International Movies"
+5626,s7679,Movie,Opium and the Kung Fu Master,Chia Tang,Hong Kong,8/16/2018,1984,TV-MA,86 min,"Action & Adventure, International Movies"
+5639,s7696,Movie,Paid in Full,Charles Stone III,United States,11/1/2019,2002,R,98 min,"Action & Adventure, Dramas"
+5641,s7698,Movie,Painted Faces,Alex Law,Hong Kong,8/16/2018,1988,TV-PG,108 min,"Dramas, International Movies"
+5644,s7702,Movie,Panic Room,David Fincher,United States,8/1/2019,2002,R,112 min,Thrillers
+5645,s7703,Movie,Papa the Great,Bhagyaraj,India,12/8/2017,2000,TV-PG,137 min,"Comedies, Dramas, International Movies"
+5648,s7707,Movie,Pardes,Subhash Ghai,India,3/1/2018,1997,TV-14,187 min,"Dramas, International Movies, Romantic Movies"
+5650,s7709,Movie,Paris Is Burning,Jennie Livingston,United States,2/1/2017,1990,R,77 min,"Classic Movies, Cult Movies, Documentaries"
+5651,s7712,Movie,Passenger 57,Kevin Hooks,United States,1/1/2021,1992,R,84 min,Action & Adventure
+5654,s7715,Movie,Patriot Games,Phillip Noyce,United States,1/1/2020,1992,R,117 min,Action & Adventure
+5661,s7723,Movie,Pee-wee's Playhouse: Christmas Special,"Paul Reubens, Wayne Orr",United States,12/18/2014,1988,TV-PG,48 min,Movies
+5671,s7736,Movie,Philadelphia,Jonathan Demme,United States,7/1/2019,1993,PG-13,126 min,"Classic Movies, Dramas, LGBTQ Movies"
+5679,s7744,TV Show,Pioneers of African-American Cinema,"Oscar Micheaux, Spencer Williams, Richard E. Norman, Richard Maurice",United States,2/1/2017,1946,TV-14,1 Season,TV Shows
+5680,s7745,Movie,Pitaah,Mahesh Manjrekar,India,3/1/2018,2002,TV-MA,127 min,"Dramas, International Movies, Music & Musicals"
+5681,s7746,Movie,"Pizza, birra, faso","Israel Adrián Caetano, Bruno Stagnaro",Argentina,3/15/2018,1998,TV-MA,81 min,"Dramas, International Movies"
+5686,s7752,Movie,Platoon,Oliver Stone,United States,11/1/2020,1986,R,120 min,"Action & Adventure, Classic Movies, Dramas"
+5687,s7753,Movie,Playing for Time,"Daniel Mann, Joseph Sargent",United States,12/1/2017,1980,TV-14,149 min,Dramas
+5690,s7756,Movie,Popeye,Robert Altman,United States,11/24/2019,1980,PG,114 min,"Action & Adventure, Children & Family Movies, Comedies"
+5698,s7791,Movie,Prelude to War,Frank Capra,United States,3/31/2017,1942,TV-14,52 min,"Classic Movies, Documentaries"
+5701,s7794,Movie,Primal Fear,Gregory Hoblit,United States,12/1/2019,1996,R,131 min,"Dramas, Thrillers"
+5702,s7795,Movie,Prince Charming,Wong Jing,Hong Kong,8/31/2018,1984,TV-14,93 min,"Comedies, International Movies, Romantic Movies"
+5706,s7802,Movie,Pukar,Rajkumar Santoshi,India,3/1/2018,2000,TV-14,165 min,"Action & Adventure, Dramas, International Movies"
+5707,s7803,Movie,Pulp Fiction,Quentin Tarantino,United States,1/1/2019,1994,R,154 min,"Classic Movies, Cult Movies, Dramas"
+5719,s7821,Movie,Raging Bull,Martin Scorsese,United States,10/1/2019,1980,R,129 min,"Classic Movies, Dramas, Sports Movies"
+5723,s7825,Movie,Raja Hindustani,Dharmesh Darshan,India,5/1/2017,1996,TV-14,177 min,"Dramas, International Movies, Romantic Movies"
+5724,s7826,Movie,Rajnigandha,Basu Chatterjee,India,12/31/2019,1974,TV-PG,104 min,"Comedies, Dramas, Independent Movies"
+5726,s7828,Movie,Ram Teri Ganga Maili,Raj Kapoor,India,12/31/2019,1985,TV-14,178 min,"Classic Movies, Dramas, International Movies"
+5736,s7840,Movie,Rebel Without a Cause,Nicholas Ray,United States,11/1/2019,1955,PG-13,111 min,"Classic Movies, Dramas"
+5739,s7845,Movie,Red Dawn,John Milius,United States,12/31/2019,1984,PG-13,114 min,"Action & Adventure, Cult Movies"
+5752,s7861,Movie,Return To The 36th Chamber,Chia-Liang Liu,Hong Kong,8/16/2018,1980,R,97 min,"Action & Adventure, Comedies, International Movies"
+5767,s7880,Movie,Rocky,John G. Avildsen,United States,8/1/2019,1976,PG,120 min,"Action & Adventure, Classic Movies, Dramas"
+5768,s7881,Movie,Rocky II,Sylvester Stallone,United States,8/1/2019,1979,PG,119 min,"Dramas, Sports Movies"
+5769,s7882,Movie,Rocky III,Sylvester Stallone,United States,8/1/2019,1982,PG,100 min,"Dramas, Sports Movies"
+5770,s7883,Movie,Rocky IV,Sylvester Stallone,United States,8/1/2019,1985,PG,92 min,"Dramas, Sports Movies"
+5771,s7884,Movie,Rocky V,John G. Avildsen,United States,8/1/2019,1990,PG-13,104 min,"Dramas, Sports Movies"
+5780,s7895,Movie,Rosemary's Baby,Roman Polanski,United States,11/1/2019,1968,R,137 min,"Classic Movies, Horror Movies, Thrillers"
+5781,s7896,Movie,Rounders,John Dahl,United States,11/1/2019,1998,R,121 min,Dramas
+5785,s7901,Movie,Rumble in the Bronx,Stanley Tong,Hong Kong,11/1/2019,1995,R,89 min,"Action & Adventure, Comedies, International Movies"
+5788,s7904,Movie,Runaway Bride,Garry Marshall,United States,12/1/2020,1999,PG,116 min,"Comedies, Romantic Movies"
+5795,s7913,Movie,S.W.A.T.,Clark Johnson,United States,1/1/2021,2003,PG-13,117 min,Action & Adventure
+5796,s7914,Movie,Saath Saath,Raman Kumar,India,12/31/2019,1982,TV-14,118 min,"Dramas, Independent Movies, International Movies"
+5800,s7918,Movie,Sadma,Balu Mahendra,India,12/31/2019,1983,TV-14,137 min,"Dramas, International Movies, Romantic Movies"
+5812,s7931,Movie,San Pietro,John Huston,United States,3/31/2017,1945,TV-14,32 min,"Classic Movies, Documentaries"
+5814,s7933,Movie,Sangam,Raj Kapoor,India,12/31/2019,1964,TV-14,228 min,"Classic Movies, Dramas, International Movies"
+5826,s7945,Movie,Satte Pe Satta,Raj N. Sippy,India,12/31/2019,1982,TV-14,153 min,"Comedies, Cult Movies, Dramas"
+5834,s7955,Movie,Scandal in Sorrento,Dino Risi,Italy,11/13/2020,1955,TV-PG,93 min,"Classic Movies, Comedies, Independent Movies"
+5836,s7956,Movie,Scary Movie,Keenen Ivory Wayans,United States,1/1/2020,2000,R,88 min,"Comedies, Horror Movies"
+5838,s7958,Movie,Schindler's List,Steven Spielberg,United States,4/1/2018,1993,R,195 min,"Classic Movies, Dramas"
+5839,s7959,Movie,School Daze,Spike Lee,United States,11/1/2020,1988,R,120 min,"Comedies, Dramas"
+5840,s7960,Movie,Scooby-Doo on Zombie Island,"Hiroshi Aoyama, Kazumi Fukushima, Jim Stenstrum",United States,12/15/2019,1998,TV-PG,77 min,Children & Family Movies
+5842,s7962,Movie,Scream 2,Wes Craven,United States,10/1/2019,1997,R,121 min,Horror Movies
+5843,s7963,Movie,Scream 3,Wes Craven,United States,7/1/2019,2000,R,117 min,Horror Movies
+5845,s7965,Movie,Searching for Bobby Fischer,Steven Zaillian,United States,12/7/2020,1993,PG,110 min,"Children & Family Movies, Classic Movies, Dramas"
+5863,s7990,Movie,"Sexo, Pudor y Lagrimas",Antonio Serrano,Mexico,12/15/2017,1999,R,111 min,"Comedies, Dramas, International Movies"
+5866,s7995,Movie,Shakti: The Power,Krishna Vamshi,India,3/1/2018,2002,TV-MA,168 min,"Dramas, International Movies, Thrillers"
+5868,s7997,Movie,Shararat,Gurudev Bhalla,India,3/1/2018,2002,TV-PG,148 min,"Comedies, International Movies, Music & Musicals"
+5869,s7998,Movie,Shark Busters,Herman Yau,Hong Kong,8/16/2018,2002,TV-14,92 min,"Dramas, International Movies"
+5874,s8005,Movie,Shiva,Ram Gopal Varma,India,12/31/2019,1990,TV-MA,168 min,"Action & Adventure, Dramas, International Movies"
+5903,s8039,Movie,Sling Blade,Billy Bob Thornton,United States,11/1/2019,1996,R,135 min,"Dramas, Independent Movies"
+5904,s8040,Movie,Sliver,Phillip Noyce,United States,1/1/2020,1993,R,107 min,Thrillers
+5906,s8043,Movie,Small Soldiers,Joe Dante,United States,6/1/2019,1998,PG-13,110 min,"Action & Adventure, Comedies, Sci-Fi & Fantasy"
+5913,s8051,Movie,Solo Con Tu Pareja,Alfonso Cuarón,Mexico,9/1/2018,1991,NR,94 min,"Comedies, Independent Movies, International Movies"
+5918,s8056,Movie,Something's Gotta Give,Nancy Meyers,United States,8/1/2019,2003,PG-13,128 min,"Comedies, Romantic Movies"
+5924,s8064,Movie,Sparkle,Sam O'Steen,United States,11/1/2019,1976,PG,98 min,"Dramas, Music & Musicals"
+5934,s8075,Movie,Spy Kids,Robert Rodriguez,United States,4/1/2019,2001,PG,88 min,"Children & Family Movies, Comedies"
+5935,s8076,Movie,Spy Kids 2: The Island of Lost Dreams,Robert Rodriguez,United States,3/8/2019,2002,PG,100 min,"Children & Family Movies, Comedies"
+5936,s8077,Movie,Spy Kids 3: Game Over,Robert Rodriguez,United States,4/1/2019,2003,PG,83 min,"Children & Family Movies, Comedies"
+5956,s8104,Movie,Strictly Ballroom,Baz Luhrmann,Australia,1/1/2020,1992,PG,95 min,"Classic Movies, Comedies, Romantic Movies"
+5958,s8106,Movie,Stripes,Ivan Reitman,United States,9/1/2019,1981,R,106 min,"Classic Movies, Comedies, Cult Movies"
+5959,s8107,Movie,Striptease,Andrew Bergman,United States,1/1/2021,1996,R,117 min,"Comedies, Dramas"
+5961,s8111,Movie,Stuart Little 2,Rob Minkoff,United States,1/1/2020,2002,PG,78 min,"Children & Family Movies, Comedies"
+5975,s8128,Movie,Superfly,Gordon Parks,United States,11/1/2019,1972,R,91 min,"Action & Adventure, Classic Movies, Dramas"
+5977,s8131,Movie,Superstar,Bruce McCulloch,United States,11/20/2019,1999,PG-13,82 min,Comedies
+5981,s8137,Movie,Swami,Basu Chatterjee,India,12/31/2019,1977,TV-PG,123 min,"Dramas, Independent Movies, International Movies"
+5986,s8143,Movie,Sword Masters: Two Champions of Shaolin,Cheh Chang,Hong Kong,8/16/2018,1980,R,101 min,"Action & Adventure, International Movies"
+5987,s8145,Movie,Taal,Subhash Ghai,India,3/1/2018,1999,TV-PG,177 min,"Dramas, International Movies, Music & Musicals"
+5992,s8152,Movie,Tarzan,"Chris Buck, Kevin Lima",United States,6/23/2018,1999,G,89 min,Children & Family Movies
+6000,s8160,Movie,Teenage Mutant Ninja Turtles II: The Secret of the Ooze,Michael Pressman,United States,1/1/2020,1991,PG,88 min,"Children & Family Movies, Comedies"
+6005,s8161,Movie,Teenage Mutant Ninja Turtles: The Movie,Steve Barron,Not Given,1/1/2020,1990,PG,94 min,"Action & Adventure, Comedies"
+6006,s8167,Movie,Terminator 3: Rise of the Machines,Jonathan Mostow,United States,1/1/2020,2003,R,109 min,"Action & Adventure, Sci-Fi & Fantasy"
+6022,s8188,Movie,The American President,Rob Reiner,United States,1/1/2021,1995,PG-13,113 min,"Comedies, Dramas, Romantic Movies"
+6029,s8197,Movie,The Art of War,Christian Duguay,United States,7/1/2020,2000,R,117 min,Action & Adventure
+6035,s8204,Movie,The Bare-Footed Kid,Johnnie To,Hong Kong,8/16/2018,1993,TV-14,83 min,"Action & Adventure, International Movies"
+6037,s8206,Movie,The Battle of Midway,John Ford,United States,3/31/2017,1942,TV-14,18 min,"Classic Movies, Documentaries"
+6043,s8215,TV Show,The Blue Planet: A Natural History of the Oceans,Alastair Fothergill,United Kingdom,10/10/2015,2001,TV-G,1 Season,"British TV Shows, Docuseries, International TV Shows"
+6064,s8238,Movie,The Car,Elliot Silverstein,United States,6/1/2020,1977,PG,96 min,"Cult Movies, Horror Movies"
+6075,s8250,Movie,The Cincinnati Kid,Norman Jewison,United States,11/1/2019,1965,TV-14,103 min,"Classic Movies, Dramas"
+6081,s8257,Movie,The Craft,Andrew Fleming,United States,1/1/2020,1996,R,101 min,"Horror Movies, Thrillers"
+6083,s8260,Movie,The Crow,Alex Proyas,United States,1/1/2019,1994,R,102 min,"Action & Adventure, Cult Movies, Sci-Fi & Fantasy"
+6084,s8261,Movie,The Cruise,Marek Piwowski,Poland,10/1/2019,1970,TV-PG,66 min,"Comedies, Cult Movies, International Movies"
+6085,s8262,Movie,The Crying Game,Neil Jordan,United Kingdom,1/1/2020,1992,R,112 min,"Classic Movies, Independent Movies, Thrillers"
+6089,s8267,Movie,The Dark Crystal,"Frank Oz, Jim Henson",United States,5/1/2019,1982,PG,93 min,Children & Family Movies
+6108,s8291,Movie,The Evil Dead,Sam Raimi,United States,1/10/2020,1981,TV-MA,85 min,"Classic Movies, Cult Movies, Horror Movies"
+6120,s8302,Movie,The First Wives Club,Hugh WIlson,United States,11/20/2019,1996,PG,103 min,Comedies
+6122,s8304,Movie,The Five Venoms,Cheh Chang,Hong Kong,7/31/2018,1978,R,97 min,"Action & Adventure, Cult Movies, International Movies"
+6123,s8305,Movie,The Flintstones,Brian Levant,United States,10/1/2019,1994,PG,91 min,"Children & Family Movies, Comedies"
+6124,s8306,Movie,The Flintstones in Viva Rock Vegas,Brian Levant,United States,10/1/2019,2000,PG,91 min,"Children & Family Movies, Comedies, Romantic Movies"
+6125,s8307,Movie,The Flying Guillotine,Meng Hua Ho,Hong Kong,7/28/2018,1975,TV-MA,101 min,"Action & Adventure, Dramas, International Movies"
+6135,s8318,Movie,The Gathering,Nia Dinata,Indonesia,12/8/2018,2003,TV-14,124 min,"Comedies, Dramas, International Movies"
+6146,s8333,Movie,The Great Gambler,Shakti Samanta,India,12/31/2019,1979,TV-14,161 min,"Action & Adventure, Classic Movies, Cult Movies"
+6169,s8362,Movie,The Indian in the Cupboard,Frank Oz,United States,11/1/2020,1995,PG,96 min,"Children & Family Movies, Dramas"
+6185,s8384,Movie,The Last Days of Chez Nous,Gillian Armstrong,Australia,11/1/2016,1992,R,93 min,"Classic Movies, Dramas"
+6201,s8402,Movie,The Longest Yard,Robert Aldrich,United States,11/20/2019,1974,R,121 min,"Classic Movies, Comedies, Sports Movies"
+6204,s8405,Movie,The Lord of the Rings: The Return of the King,Peter Jackson,New Zealand,1/1/2020,2003,PG-13,201 min,"Action & Adventure, Sci-Fi & Fantasy"
+6205,s8406,Movie,The Lord of the Rings: The Two Towers,Peter Jackson,New Zealand,1/1/2020,2002,PG-13,179 min,"Action & Adventure, Sci-Fi & Fantasy"
+6208,s8409,Movie,The lynx,Stanisław Różewicz,Poland,10/1/2019,1982,TV-14,82 min,"Dramas, International Movies"
+6209,s8410,Movie,The Mad Monk,Johnny To,Hong Kong,8/16/2018,1993,TV-14,85 min,"Comedies, International Movies, Sci-Fi & Fantasy"
+6212,s8414,Movie,The Mask of Zorro,Martin Campbell,United States,1/1/2020,1998,PG-13,138 min,"Action & Adventure, Romantic Movies"
+6213,s8415,Movie,The Matrix,"Lilly Wachowski, Lana Wachowski",United States,11/1/2019,1999,R,136 min,"Action & Adventure, Sci-Fi & Fantasy"
+6214,s8416,Movie,The Matrix Reloaded,"Lilly Wachowski, Lana Wachowski",United States,11/1/2019,2003,R,138 min,"Action & Adventure, Sci-Fi & Fantasy"
+6215,s8417,Movie,The Matrix Revolutions,"Lilly Wachowski, Lana Wachowski",United States,11/1/2019,2003,R,129 min,"Action & Adventure, Sci-Fi & Fantasy"
+6218,s8420,Movie,"The Memphis Belle: A Story of a
+Flying Fortress",William Wyler,United States,3/31/2017,1944,TV-PG,40 min,"Classic Movies, Documentaries"
+6225,s8434,Movie,The Naked Gun 2 1/2: The Smell of Fear,David Zucker,United States,1/1/2020,1991,PG-13,85 min,Comedies
+6228,s8435,Movie,The Naked Gun: From the Files of Police Squad!,David Zucker,United States,1/1/2021,1988,PG-13,85 min,"Comedies, Cult Movies"
+6229,s8436,Movie,The Natural,Barry Levinson,United States,1/1/2020,1984,PG,138 min,"Classic Movies, Dramas, Sports Movies"
+6230,s8437,Movie,The Negro Soldier,Stuart Heisler,United States,3/31/2017,1944,TV-14,40 min,"Classic Movies, Documentaries"
+6237,s8447,Movie,The Parole Officer,John Duigan,United Kingdom,8/1/2018,2001,R,94 min,"Action & Adventure, Comedies"
+6241,s8449,Movie,The Peacemaker,Mimi Leder,United States,1/1/2020,1997,R,124 min,Action & Adventure
+6242,s8450,Movie,The Pelican Brief,Alan J. Pakula,United States,11/1/2019,1993,PG-13,141 min,"Dramas, Thrillers"
+6266,s8474,Movie,The Rainmaker,Francis Ford Coppola,United States,11/20/2019,1997,PG-13,136 min,"Dramas, Thrillers"
+6275,s8487,Movie,The Ring,Gore Verbinski,United States,1/1/2020,2002,PG-13,116 min,"Horror Movies, Thrillers"
+6278,s8490,Movie,The River Wild,Curtis Hanson,United States,9/1/2018,1994,PG-13,111 min,Action & Adventure
+6286,s8499,Movie,The Score,Frank Oz,Germany,11/28/2019,2001,R,124 min,"Dramas, Thrillers"
+6294,s8507,Movie,The Sign of Venus,Dino Risi,Italy,11/13/2020,1955,TV-14,97 min,"Classic Movies, Comedies, Independent Movies"
+6301,s8515,Movie,The spiral,Krzysztof Zanussi,Poland,10/1/2019,1978,TV-MA,84 min,"Dramas, Independent Movies, International Movies"
+6310,s8527,Movie,The Talented Mr. Ripley,Anthony Minghella,United States,1/1/2020,1999,R,139 min,"Dramas, Thrillers"
+6311,s8528,Movie,The Texas Chainsaw Massacre,Tobe Hooper,United States,10/22/2019,1974,R,83 min,"Cult Movies, Horror Movies, Independent Movies"
+6315,s8532,Movie,The Time Machine,Simon Wells,United States,11/23/2019,2002,PG-13,96 min,"Action & Adventure, Sci-Fi & Fantasy"
+6318,s8536,Movie,The Trigger Effect,David Koepp,United States,1/1/2018,1996,R,94 min,Thrillers
+6322,s8541,Movie,The Tuxedo,Kevin Donovan,United States,11/1/2019,2002,PG-13,99 min,"Action & Adventure, Comedies"
+6333,s8555,Movie,The Waterboy,Frank Coraci,United States,3/8/2017,1998,PG-13,90 min,"Comedies, Sports Movies"
+6341,s8565,Movie,The World Is Not Enough,Michael Apted,United Kingdom,12/31/2019,1999,PG-13,128 min,Action & Adventure
+6345,s8570,Movie,The Young Vagabond,Sze Yu Lau,Hong Kong,8/16/2018,1985,TV-14,85 min,"Action & Adventure, Comedies, International Movies"
+6348,s8573,Movie,"Thelonious Monk: Straight, No Chaser",Charlotte Zwerin,United States,11/1/2019,1988,PG-13,89 min,"Documentaries, Music & Musicals"
+6360,s8588,Movie,Thunderbolt,"William Wyler, John Sturges",United States,3/31/2017,1947,TV-PG,42 min,"Classic Movies, Documentaries"
+6366,s8603,Movie,Tom and Jerry: The Magic Ring,Phil Roman,Not Given,12/15/2019,2001,TV-Y7,60 min,"Children & Family Movies, Comedies"
+6370,s8599,Movie,"To Wong Foo, Thanks for Everything! Julie Newmar",Beeban Kidron,United States,8/1/2019,1995,PG-13,108 min,"Comedies, Cult Movies, LGBTQ Movies"
+6373,s8604,Movie,Tomorrow Never Dies,Roger Spottiswoode,United Kingdom,12/31/2019,1997,PG-13,119 min,Action & Adventure
+6374,s8623,Movie,Tremors 2: Aftershocks,S.S. Wilson,United States,1/1/2020,1995,PG-13,100 min,"Comedies, Horror Movies, Sci-Fi & Fantasy"
+6376,s8608,Movie,Tortilla Soup,Maria Ripoll,United States,9/15/2020,2001,PG-13,104 min,"Comedies, Dramas, Romantic Movies"
+6382,s8615,Movie,Trainspotting,Danny Boyle,United Kingdom,10/1/2019,1996,R,94 min,"Comedies, Cult Movies, Dramas"
+6389,s8622,Movie,Tremors,Ron Underwood,United States,1/1/2020,1990,PG-13,96 min,"Comedies, Cult Movies, Horror Movies"
+6390,s8624,Movie,Tremors 3: Back to Perfection,Brent Maddock,United States,1/1/2020,2001,PG,104 min,"Comedies, Horror Movies, Sci-Fi & Fantasy"
+6395,s8629,Movie,"Trikal (Past, Present, Future)",Shyam Benegal,India,12/31/2019,1985,TV-14,134 min,"Comedies, Dramas, Independent Movies"
+6396,s8630,Movie,Trimurti,Mukul Anand,India,3/1/2018,1995,TV-PG,173 min,"Action & Adventure, Dramas, International Movies"
+6401,s8636,Movie,True Grit,Henry Hathaway,United States,1/1/2020,1969,G,128 min,"Classic Movies, Dramas"
+6406,s8641,Movie,Tunisian Victory,"Frank Capra, John Huston, Hugh Stewart, Roy Boulting, Anthony Veiller",United States,3/31/2017,1944,TV-14,76 min,"Classic Movies, Documentaries"
+6422,s8661,Movie,Undercover: How to Operate Behind Enemy Lines,John Ford,United States,3/31/2017,1943,TV-PG,61 min,"Classic Movies, Documentaries"
+6465,s8710,Movie,Weather forecast,Antoni Krauze,Poland,10/1/2019,1983,TV-MA,91 min,"Dramas, International Movies"
+6473,s8718,Movie,Westerplatte Resists,Stanisław Różewicz,Poland,10/1/2019,1967,TV-MA,93 min,"Classic Movies, Dramas, International Movies"
+6475,s8723,Movie,What Lies Beneath,Robert Zemeckis,United States,1/1/2020,2000,PG-13,130 min,"Horror Movies, Thrillers"
+6478,s8726,Movie,What's Up With Love?,"Rudy Soedjarwo, Riri Riza",Indonesia,12/8/2018,2002,R,110 min,"Dramas, International Movies, Romantic Movies"
+6482,s8730,Movie,Where the Money Is,Marek Kanievska,Germany,1/15/2020,2000,PG-13,89 min,"Action & Adventure, Comedies, Dramas"
+6488,s8736,Movie,Who's That Knocking at My Door?,Martin Scorsese,United States,7/1/2019,1967,R,90 min,"Classic Movies, Dramas, Independent Movies"
+6491,s8740,Movie,Why We Fight: The Battle of Russia,"Frank Capra, Anatole Litvak",United States,3/31/2017,1943,TV-PG,82 min,Documentaries
+6492,s8743,Movie,Wild Wild West,Barry Sonnenfeld,United States,1/1/2020,1999,PG-13,106 min,"Action & Adventure, Comedies, Sci-Fi & Fantasy"
+6495,s8746,Movie,Willy Wonka & the Chocolate Factory,Mel Stuart,United States,1/1/2020,1971,G,100 min,"Children & Family Movies, Classic Movies, Comedies"
+6498,s8749,Movie,Winter of Our Dreams,John Duigan,Australia,11/1/2016,1981,NR,86 min,"Classic Movies, Dramas"
+6510,s8764,Movie,WWII: Report from the Aleutians,John Huston,United States,3/31/2017,1943,TV-PG,45 min,Documentaries
+6511,s8765,Movie,Wyatt Earp,Lawrence Kasdan,United States,1/1/2020,1994,PG-13,191 min,Action & Adventure
+6513,s8767,Movie,XXx,Rob Cohen,United States,1/1/2019,2002,PG-13,124 min,"Action & Adventure, Sports Movies"
+6515,s8769,Movie,Y Tu Mamá También,Alfonso Cuarón,Mexico,6/1/2017,2001,R,106 min,"Dramas, Independent Movies, International Movies"
+6517,s8771,Movie,Yaadein,Subhash Ghai,India,3/1/2018,2001,TV-14,171 min,"Dramas, International Movies, Romantic Movies"
+6534,s8793,Movie,Young Tiger,Mu Chu,Hong Kong,11/1/2016,1973,NR,81 min,"Action & Adventure, International Movies"
+6584,s68,TV Show,Saved by the Bell,Not Given,United States,9/15/2021,1994,TV-PG,9 Seasons,"Kids' TV, TV Comedies"
+6605,s161,TV Show,Major Dad,Not Given,United States,9/1/2021,1992,TV-PG,4 Seasons,TV Comedies
+6710,s658,TV Show,The Mole,Not Given,United States,6/21/2021,2001,TV-14,2 Seasons,"Reality TV, TV Action & Adventure, TV Mysteries"
+6752,s814,TV Show,The Adventures of Sonic the Hedgehog,Not Given,United States,6/2/2021,1993,TV-Y7,1 Season,Kids' TV
+6766,s869,TV Show,The Magic School Bus,Not Given,Canada,5/19/2021,1997,TV-Y,1 Season,Kids' TV
+6799,s1052,TV Show,Sonic X,Not Given,Japan,4/15/2021,2003,TV-Y7,2 Seasons,"Anime Series, Kids' TV"
+6874,s1332,TV Show,Five Came Back: The Reference Films,Not Given,United States,2/9/2021,1945,TV-MA,1 Season,TV Shows
+6980,s1640,TV Show,Heartbreak High,Not Given,Australia,11/27/2020,1999,TV-14,7 Seasons,"International TV Shows, TV Dramas, Teen TV Shows"
+7001,s1720,Movie,We Are All For The Fatherland,Not Given,Lebanon,11/11/2020,1979,TV-14,74 min,"Documentaries, International Movies"
+7013,s1751,TV Show,Dawson's Creek,Not Given,United States,11/1/2020,2002,TV-14,6 Seasons,"Romantic TV Shows, TV Dramas, Teen TV Shows"
+7061,s1923,TV Show,The Parkers,Not Given,United States,10/1/2020,2003,TV-PG,5 Seasons,TV Comedies
+7108,s2070,TV Show,H,Not Given,France,9/1/2020,2002,TV-MA,4 Seasons,"International TV Shows, TV Comedies"
+7110,s2074,TV Show,"Sister, Sister",Not Given,United States,9/1/2020,1998,TV-PG,6 Seasons,"TV Comedies, Teen TV Shows"
+7148,s2174,TV Show,Moesha,Not Given,United States,8/1/2020,2000,TV-PG,6 Seasons,"TV Comedies, Teen TV Shows"
+7185,s2302,TV Show,Supermarket Sweep,Not Given,United States,7/2/2020,1993,TV-G,1 Season,Reality TV
+7193,s2400,TV Show,ONE PIECE,Not Given,Japan,6/12/2020,2002,TV-14,4 Seasons,Anime Series
+7223,s2445,TV Show,Cardcaptor Sakura,Not Given,Japan,6/1/2020,1999,TV-Y7,2 Seasons,"Anime Series, International TV Shows"
+7299,s2741,TV Show,Saint Seiya,Not Given,Japan,4/1/2020,1986,TV-14,6 Seasons,Anime Series
+7470,s3264,TV Show,At the Dolphin Bay,Not Given,Taiwan,11/15/2019,2003,TV-14,1 Season,"International TV Shows, Romantic TV Shows"
+7477,s3277,TV Show,My MVP Valentine,Not Given,Taiwan,11/15/2019,2002,TV-PG,1 Season,"International TV Shows, Romantic TV Shows, TV Dramas"
+7655,s3725,TV Show,Neon Genesis Evangelion,Not Given,Japan,6/21/2019,1995,TV-MA,1 Season,"Anime Series, International TV Shows"
+7808,s4190,TV Show,Lavender,Not Given,Taiwan,1/15/2019,2002,TV-14,1 Season,"International TV Shows, Romantic TV Shows, TV Dramas"
+7820,s4246,Movie,Tim Allen: ReWires America,Not Given,United States,12/31/2018,1991,TV-MA,30 min,Stand-Up Comedy
+7886,s4414,TV Show,Kopitiam,Not Given,Malaysia,11/3/2018,2003,TV-14,7 Seasons,"International TV Shows, TV Comedies"
+7917,s4547,Movie,Monty Python: Live at Aspen,Not Given,United States,10/2/2018,1998,TV-MA,58 min,"Comedies, Documentaries"
+7919,s4551,TV Show,Monty Python's Fliegender Zirkus,Not Given,United Kingdom,10/2/2018,1972,TV-MA,1 Season,"International TV Shows, TV Comedies"
+7920,s4552,TV Show,Monty Python's Flying Circus,Not Given,United Kingdom,10/2/2018,1974,TV-14,4 Seasons,"British TV Shows, Classic & Cult TV, International TV Shows"
+8019,s4947,TV Show,Star Trek: The Next Generation,Not Given,United States,4/2/2018,1993,TV-PG,7 Seasons,"TV Action & Adventure, TV Sci-Fi & Fantasy"
+8061,s5096,TV Show,Fullmetal Alchemist,Not Given,Japan,1/1/2018,2003,TV-14,1 Season,"Anime Series, International TV Shows"
+8063,s5099,TV Show,Pokémon: Indigo League,Not Given,Japan,1/1/2018,2000,TV-Y7,1 Season,"Anime Series, Kids' TV"
+8105,s5246,TV Show,Star Trek: Voyager,Not Given,United States,10/1/2017,2000,TV-PG,7 Seasons,"TV Action & Adventure, TV Sci-Fi & Fantasy"
+8125,s5296,Movie,Chadi Jawani Budhe Nu,Not Given,India,9/1/2017,1976,TV-PG,135 min,"Comedies, International Movies, Romantic Movies"
+8128,s5300,TV Show,High Risk,Not Given,United States,9/1/2017,1988,TV-PG,1 Season,"Docuseries, Reality TV"
+8219,s5651,TV Show,Star Trek: Deep Space Nine,Not Given,United States,1/1/2017,1999,TV-14,7 Seasons,"TV Action & Adventure, TV Sci-Fi & Fantasy"
+8231,s5673,TV Show,InuYasha,Not Given,Japan,12/15/2016,2001,TV-14,2 Seasons,"Anime Series, International TV Shows"
+8282,s5812,TV Show,Behind Enemy Lines,Not Given,United States,8/15/2016,2001,TV-14,1 Season,"British TV Shows, Docuseries"
+8311,s5909,TV Show,Danger Mouse: Classic Collection,Not Given,United Kingdom,6/15/2015,1992,TV-Y,10 Seasons,"British TV Shows, Kids' TV, TV Comedies"
+8316,s5924,TV Show,Goosebumps,Not Given,Canada,11/19/2014,1998,TV-G,5 Seasons,"Kids' TV, TV Thrillers"
+8340,s6971,TV Show,Highway to Heaven,Not Given,United States,11/1/2016,1988,TV-PG,5 Seasons,TV Dramas
+8370,s6302,TV Show,Big Bad Beetleborgs,Not Given,United States,1/1/2016,1997,TV-G,2 Seasons,"Kids' TV, TV Comedies"
+8391,s6457,TV Show,Cheers,Not Given,United States,7/1/2017,1992,TV-PG,11 Seasons,"Classic & Cult TV, TV Comedies"
+8393,s6460,TV Show,Chewin' the Fat,Not Given,United Kingdom,10/1/2016,1999,TV-14,1 Season,"British TV Shows, TV Comedies"
+8398,s6470,TV Show,Chill with Bob Ross,Not Given,Pakistan,12/1/2016,1994,TV-G,1 Season,TV Shows
+8403,s6515,TV Show,Cold Case Files Classic,Not Given,United States,9/15/2020,1999,TV-MA,1 Season,"Crime TV Shows, Docuseries"
+8409,s6550,TV Show,Dad's Army,Not Given,United Kingdom,3/31/2018,1977,TV-PG,10 Seasons,"British TV Shows, Classic & Cult TV, TV Comedies"
+8437,s6675,TV Show,El Chavo,Not Given,Mexico,12/31/2017,1979,TV-PG,1 Season,"Classic & Cult TV, Kids' TV, Spanish-Language TV Shows"
+8521,s7178,TV Show,Ken Burns: The West,Not Given,United States,3/14/2017,1996,TV-PG,1 Season,Docuseries
+8578,s7552,TV Show,Mystery Science Theater 3000,Not Given,United States,3/15/2018,1999,TV-14,1 Season,"TV Comedies, TV Sci-Fi & Fantasy"
+8581,s7589,TV Show,Ninja Hattori,Not Given,Japan,12/23/2018,1981,TV-Y7,1 Season,"Anime Series, Kids' TV"
+8582,s7590,TV Show,Ninja Turtles: The Next Mutation,Not Given,Canada,1/1/2016,1997,TV-G,1 Season,"Kids' TV, TV Comedies"
+8607,s7711,TV Show,Pasión de Gavilanes,Not Given,Colombia,5/4/2017,2003,TV-14,1 Season,"International TV Shows, Romantic TV Shows, Spanish-Language TV Shows"
+8609,s7722,TV Show,Pee-wee's Playhouse,Not Given,United States,12/18/2014,1990,TV-PG,5 Seasons,"Classic & Cult TV, Kids' TV, TV Comedies"
+8614,s7765,TV Show,Power Rangers in Space,Not Given,United States,1/1/2016,1998,TV-Y7,1 Season,Kids' TV
+8616,s7767,TV Show,Power Rangers Lightspeed Rescue,Not Given,France,1/1/2016,2000,TV-Y7,1 Season,Kids' TV
+8617,s7768,TV Show,Power Rangers Lost Galaxy,Not Given,United States,1/1/2016,1999,TV-Y7,1 Season,Kids' TV
+8619,s7770,TV Show,Power Rangers Ninja Storm,Not Given,United States,1/1/2016,2003,TV-Y7,1 Season,Kids' TV
+8629,s7783,TV Show,Power Rangers Time Force,Not Given,United States,1/1/2016,2001,TV-Y7,1 Season,Kids' TV
+8630,s7784,TV Show,Power Rangers Turbo,Not Given,United States,1/1/2016,1997,TV-Y7,1 Season,Kids' TV
+8631,s7785,TV Show,Power Rangers Wild Force,Not Given,United States,1/1/2016,2002,TV-Y7,1 Season,Kids' TV
+8632,s7786,TV Show,Power Rangers Zeo,Not Given,United States,1/1/2016,1996,TV-Y7,1 Season,Kids' TV
+8649,s7879,TV Show,Robotech,Not Given,United States,10/1/2016,1985,TV-MA,1 Season,Anime Series
+8652,s7907,TV Show,Rurouni Kenshin,Not Given,Japan,1/1/2020,1998,TV-14,3 Seasons,"Anime Series, International TV Shows"
+8661,s7994,TV Show,Shaka Zulu,Not Given,Italy,1/10/2019,1986,TV-14,1 Season,TV Dramas
+8690,s8149,TV Show,Tales of the City (1993),Not Given,United Kingdom,6/28/2019,1993,TV-MA,1 Season,TV Dramas
+8697,s8190,TV Show,The Andy Griffith Show,Not Given,United States,7/1/2017,1967,TV-G,8 Seasons,"Classic & Cult TV, TV Comedies"
+8702,s8232,Movie,The Bund,Not Given,Hong Kong,9/20/2018,1983,TV-14,103 min,"Action & Adventure, Dramas, International Movies"
+8743,s8524,TV Show,The Super Mario Bros. Super Show!,Not Given,United States,5/22/2016,1989,TV-Y7,1 Season,Kids' TV
+8746,s8542,TV Show,The Twilight Zone (Original Series),Not Given,United States,7/1/2017,1963,TV-14,4 Seasons,"Classic & Cult TV, TV Sci-Fi & Fantasy"
+8761,s8645,TV Show,Twin Peaks,Not Given,United States,7/1/2017,1990,TV-14,2 Seasons,"Classic & Cult TV, Crime TV Shows, TV Dramas"
+8765,s8670,TV Show,V.R. Troopers,Not Given,United States,1/1/2016,1995,TV-G,2 Seasons,Kids' TV
